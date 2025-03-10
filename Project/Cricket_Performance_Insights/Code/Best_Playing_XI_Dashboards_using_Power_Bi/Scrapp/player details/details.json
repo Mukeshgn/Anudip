@@ -1,0 +1,3184 @@
+{
+ "team": [
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381892.png",
+   "name": "Afghanistan Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-squad-1431702/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087",
+     "name": "Rahmanullah Gurbaz",
+     "name_url": "https://www.espncricinfo.com/cricketers/rahmanullah-gurbaz-974087",
+     "role": "Wicketkeeper Batter",
+     "age": "22y 155d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/hazratullah-zazai-793457",
+     "name": "Hazratullah Zazai",
+     "name_url": "https://www.espncricinfo.com/cricketers/hazratullah-zazai-793457",
+     "role": "Opening Batter",
+     "age": "26y 39d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ibrahim-zadran-921509",
+     "name": "Ibrahim Zadran",
+     "name_url": "https://www.espncricinfo.com/cricketers/ibrahim-zadran-921509",
+     "role": "Opening Batter",
+     "age": "22y 141d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammad-ishaq-1076579",
+     "name": "Mohammad Ishaq",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammad-ishaq-1076579",
+     "role": "Wicketkeeper Batter",
+     "age": "19y 90d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/najibullah-zadran-524049",
+     "name": "Najibullah Zadran",
+     "name_url": "https://www.espncricinfo.com/cricketers/najibullah-zadran-524049",
+     "role": "Middle order Batter",
+     "age": "31y 73d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rashid-khan-793463",
+     "name": "Rashid Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/rashid-khan-793463",
+     "role": "Bowling Allrounder",
+     "age": "25y 224d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/azmatullah-omarzai-819429",
+     "name": "Azmatullah Omarzai",
+     "name_url": "https://www.espncricinfo.com/cricketers/azmatullah-omarzai-819429",
+     "role": "Allrounder",
+     "age": "24y 38d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/gulbadin-naib-352048",
+     "name": "Gulbadin Naib",
+     "name_url": "https://www.espncricinfo.com/cricketers/gulbadin-naib-352048",
+     "role": "Batting Allrounder",
+     "age": "32y 332d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/karim-janat-793467",
+     "name": "Karim Janat",
+     "name_url": "https://www.espncricinfo.com/cricketers/karim-janat-793467",
+     "role": "Bowling Allrounder",
+     "age": "25y 264d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammad-nabi-25913",
+     "name": "Mohammad Nabi",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammad-nabi-25913",
+     "role": "Allrounder",
+     "age": "39y 121d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nangeyalia-kharote-1199434",
+     "name": "Nangeyalia Kharote",
+     "name_url": "https://www.espncricinfo.com/cricketers/nangeyalia-kharote-1199434",
+     "role": "Allrounder",
+     "age": "20y 6d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fareed-ahmad-568136",
+     "name": "Fareed Ahmad",
+     "name_url": "https://www.espncricinfo.com/cricketers/fareed-ahmad-568136",
+     "role": "Bowler",
+     "age": "29y 265d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fazalhaq-farooqi-974175",
+     "name": "Fazalhaq Farooqi",
+     "name_url": "https://www.espncricinfo.com/cricketers/fazalhaq-farooqi-974175",
+     "role": "Bowler",
+     "age": "23y 222d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/naveen-ul-haq-793447",
+     "name": "Naveen-ul-Haq",
+     "name_url": "https://www.espncricinfo.com/cricketers/naveen-ul-haq-793447",
+     "role": "Bowler",
+     "age": "24y 221d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/noor-ahmad-1182529",
+     "name": "Noor Ahmad",
+     "name_url": "https://www.espncricinfo.com/cricketers/noor-ahmad-1182529",
+     "role": "Bowler",
+     "age": "19y 119d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Wrist spin"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mujeeb-ur-rahman-974109",
+     "name": "Mujeeb Ur Rahman",
+     "name_url": "https://www.espncricinfo.com/cricketers/mujeeb-ur-rahman-974109",
+     "role": "Bowler",
+     "age": "23y 34d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/340400/340493.png",
+   "name": "Australia Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-squad-1431715/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tim-david-892749",
+     "name": "Tim David",
+     "name_url": "https://www.espncricinfo.com/cricketers/tim-david-892749",
+     "role": "Middle order Batter",
+     "age": "28y 46d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/travis-head-530011",
+     "name": "Travis Head",
+     "name_url": "https://www.espncricinfo.com/cricketers/travis-head-530011",
+     "role": "Top order Batter",
+     "age": "30y 124d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/josh-inglis-662235",
+     "name": "Josh Inglis",
+     "name_url": "https://www.espncricinfo.com/cricketers/josh-inglis-662235",
+     "role": "Wicketkeeper Batter",
+     "age": "29y 58d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/matthew-wade-230193",
+     "name": "Matthew Wade",
+     "name_url": "https://www.espncricinfo.com/cricketers/matthew-wade-230193",
+     "role": "Wicketkeeper Batter",
+     "age": "36y 127d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/david-warner-219889",
+     "name": "David Warner",
+     "name_url": "https://www.espncricinfo.com/cricketers/david-warner-219889",
+     "role": "Opening Batter",
+     "age": "37y 187d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mitchell-marsh-272450",
+     "name": "Mitchell Marsh",
+     "name_url": "https://www.espncricinfo.com/cricketers/mitchell-marsh-272450",
+     "role": "Allrounder",
+     "age": "32y 194d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/cameron-green-1076713",
+     "name": "Cameron Green",
+     "name_url": "https://www.espncricinfo.com/cricketers/cameron-green-1076713",
+     "role": "Batting Allrounder",
+     "age": "24y 333d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/glenn-maxwell-325026",
+     "name": "Glenn Maxwell",
+     "name_url": "https://www.espncricinfo.com/cricketers/glenn-maxwell-325026",
+     "role": "Batting Allrounder",
+     "age": "35y 200d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/marcus-stoinis-325012",
+     "name": "Marcus Stoinis",
+     "name_url": "https://www.espncricinfo.com/cricketers/marcus-stoinis-325012",
+     "role": "Batting Allrounder",
+     "age": "34y 259d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ashton-agar-505120",
+     "name": "Ashton Agar",
+     "name_url": "https://www.espncricinfo.com/cricketers/ashton-agar-505120",
+     "role": "Bowler",
+     "age": "30y 200d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/pat-cummins-489889",
+     "name": "Pat Cummins",
+     "name_url": "https://www.espncricinfo.com/cricketers/pat-cummins-489889",
+     "role": "Bowler",
+     "age": "30y 359d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nathan-ellis-826915",
+     "name": "Nathan Ellis",
+     "name_url": "https://www.espncricinfo.com/cricketers/nathan-ellis-826915",
+     "role": "Bowler",
+     "age": "29y 222d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/josh-hazlewood-288284",
+     "name": "Josh Hazlewood",
+     "name_url": "https://www.espncricinfo.com/cricketers/josh-hazlewood-288284",
+     "role": "Bowler",
+     "age": "33y 114d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mitchell-starc-311592",
+     "name": "Mitchell Starc",
+     "name_url": "https://www.espncricinfo.com/cricketers/mitchell-starc-311592",
+     "role": "Bowler",
+     "age": "34y 92d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/adam-zampa-379504",
+     "name": "Adam Zampa",
+     "name_url": "https://www.espncricinfo.com/cricketers/adam-zampa-379504",
+     "role": "Bowler",
+     "age": "32y 31d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/341400/341456.png",
+   "name": "Bangladesh Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-squad-1433740/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058",
+     "name": "Najmul Hossain Shanto",
+     "name_url": "https://www.espncricinfo.com/cricketers/najmul-hossain-shanto-629058",
+     "role": "Top order Batter",
+     "age": "25y 263d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jaker-ali-824541",
+     "name": "Jaker Ali",
+     "name_url": "https://www.espncricinfo.com/cricketers/jaker-ali-824541",
+     "role": "Wicketkeeper Batter",
+     "age": "26y 82d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/litton-das-536936",
+     "name": "Litton Das",
+     "name_url": "https://www.espncricinfo.com/cricketers/litton-das-536936",
+     "role": "Wicketkeeper Batter",
+     "age": "29y 214d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tanzid-hasan-990023",
+     "name": "Tanzid Hasan",
+     "name_url": "https://www.espncricinfo.com/cricketers/tanzid-hasan-990023",
+     "role": "Opening Batter",
+     "age": "23y 165d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/towhid-hridoy-990031",
+     "name": "Towhid Hridoy",
+     "name_url": "https://www.espncricinfo.com/cricketers/towhid-hridoy-990031",
+     "role": "Top order Batter",
+     "age": "23y 162d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mahedi-hasan-833087",
+     "name": "Mahedi Hasan",
+     "name_url": "https://www.espncricinfo.com/cricketers/mahedi-hasan-833087",
+     "role": "Allrounder",
+     "age": "29y 154d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mahmudullah-56025",
+     "name": "Mahmudullah",
+     "name_url": "https://www.espncricinfo.com/cricketers/mahmudullah-56025",
+     "role": "Allrounder",
+     "age": "38y 100d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rishad-hossain-1139523",
+     "name": "Rishad Hossain",
+     "name_url": "https://www.espncricinfo.com/cricketers/rishad-hossain-1139523",
+     "role": "Allrounder",
+     "age": "21y 304d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143",
+     "name": "Shakib Al Hasan",
+     "name_url": "https://www.espncricinfo.com/cricketers/shakib-al-hasan-56143",
+     "role": "Allrounder",
+     "age": "37y 51d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/soumya-sarkar-436677",
+     "name": "Soumya Sarkar",
+     "name_url": "https://www.espncricinfo.com/cricketers/soumya-sarkar-436677",
+     "role": "Batting Allrounder",
+     "age": "31y 79d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tanzim-hasan-sakib-1139520",
+     "name": "Tanzim Hasan Sakib",
+     "name_url": "https://www.espncricinfo.com/cricketers/tanzim-hasan-sakib-1139520",
+     "role": "Bowling Allrounder",
+     "age": "21y 207d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/taskin-ahmed-538506",
+     "name": "Taskin Ahmed",
+     "name_url": "https://www.espncricinfo.com/cricketers/taskin-ahmed-538506",
+     "role": "Bowler",
+     "age": "29y 41d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mustafizur-rahman-330902",
+     "name": "Mustafizur Rahman",
+     "name_url": "https://www.espncricinfo.com/cricketers/mustafizur-rahman-330902",
+     "role": "Bowler",
+     "age": "28y 251d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shoriful-islam-990039",
+     "name": "Shoriful Islam",
+     "name_url": "https://www.espncricinfo.com/cricketers/shoriful-islam-990039",
+     "role": "Bowler",
+     "age": "22y 346d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tanvir-islam-932665",
+     "name": "Tanvir Islam",
+     "name_url": "https://www.espncricinfo.com/cricketers/tanvir-islam-932665",
+     "role": "Bowler",
+     "age": "27y 202d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381855.png",
+   "name": "Canada Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/canada-squad-1431914/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/navneet-dhaliwal-817069",
+     "name": "Navneet Dhaliwal",
+     "name_url": "https://www.espncricinfo.com/cricketers/navneet-dhaliwal-817069",
+     "role": "Middle order Batter",
+     "age": "35y 205d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/aaron-johnson-1323683",
+     "name": "Aaron Johnson",
+     "name_url": "https://www.espncricinfo.com/cricketers/aaron-johnson-1323683",
+     "role": "Batter",
+     "age": "33y 47d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shreyas-movva-1206190",
+     "name": "Shreyas Movva",
+     "name_url": "https://www.espncricinfo.com/cricketers/shreyas-movva-1206190",
+     "role": "Wicketkeeper Batter",
+     "age": "30y 241d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ravinderpal-singh-1159653",
+     "name": "Ravinderpal Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/ravinderpal-singh-1159653",
+     "role": "Batter",
+     "age": "35y 201d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/saad-bin-zafar-359746",
+     "name": "Saad Bin Zafar",
+     "name_url": "https://www.espncricinfo.com/cricketers/saad-bin-zafar-359746",
+     "role": "Allrounder",
+     "age": "37y 174d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dilpreet-bajwa-1229251",
+     "name": "Dilpreet Bajwa",
+     "name_url": "https://www.espncricinfo.com/cricketers/dilpreet-bajwa-1229251",
+     "role": "Allrounder",
+     "age": "21y 97d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/junaid-siddiqui-494847",
+     "name": "Junaid Siddiqui",
+     "name_url": "https://www.espncricinfo.com/cricketers/junaid-siddiqui-494847",
+     "role": "Allrounder",
+     "age": "39y 38d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nicholas-kirton-820685",
+     "name": "Nicholas Kirton",
+     "name_url": "https://www.espncricinfo.com/cricketers/nicholas-kirton-820685",
+     "role": "Batting Allrounder",
+     "age": "25y 362d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/pargat-singh-446690",
+     "name": "Pargat Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/pargat-singh-446690",
+     "role": "Allrounder",
+     "age": "32y 19d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rayyan-pathan-521478",
+     "name": "Rayyan Pathan",
+     "name_url": "https://www.espncricinfo.com/cricketers/rayyan-pathan-521478",
+     "role": "Batting Allrounder",
+     "age": "32y 148d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/harsh-thaker-914503",
+     "name": "Harsh Thaker",
+     "name_url": "https://www.espncricinfo.com/cricketers/harsh-thaker-914503",
+     "role": "Allrounder",
+     "age": "26y 191d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nikhil-dutta-348135",
+     "name": "Nikhil Dutta",
+     "name_url": "https://www.espncricinfo.com/cricketers/nikhil-dutta-348135",
+     "role": "Bowler",
+     "age": "29y 202d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jeremy-gordon-276370",
+     "name": "Jeremy Gordon",
+     "name_url": "https://www.espncricinfo.com/cricketers/jeremy-gordon-276370",
+     "role": "Bowler",
+     "age": "37y 103d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dilon-heyliger-1061467",
+     "name": "Dilon Heyliger",
+     "name_url": "https://www.espncricinfo.com/cricketers/dilon-heyliger-1061467",
+     "role": "Bowler",
+     "age": "34y 194d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rishiv-joshi-1111473",
+     "name": "Rishiv Joshi",
+     "name_url": "https://www.espncricinfo.com/cricketers/rishiv-joshi-1111473",
+     "role": "Bowler",
+     "age": "23y 180d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kaleem-sana-385938",
+     "name": "Kaleem Sana",
+     "name_url": "https://www.espncricinfo.com/cricketers/kaleem-sana-385938",
+     "role": "Bowler",
+     "age": "30y 122d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381894.png",
+   "name": "England Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-squad-1431604/series-squads",
+   "selection2": [
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383143.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/jos-buttler-308967",
+     "name": "Jos Buttler",
+     "name_url": "https://www.espncricinfo.com/cricketers/jos-buttler-308967",
+     "role": "Wicketkeeper Batter",
+     "age": "33y 235d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383157.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/jonny-bairstow-297433",
+     "name": "Jonny Bairstow",
+     "name_url": "https://www.espncricinfo.com/cricketers/jonny-bairstow-297433",
+     "role": "Wicketkeeper Batter",
+     "age": "34y 217d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383145.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/harry-brook-911707",
+     "name": "Harry Brook",
+     "name_url": "https://www.espncricinfo.com/cricketers/harry-brook-911707",
+     "role": "Batter",
+     "age": "25y 68d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383154.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/ben-duckett-521637",
+     "name": "Ben Duckett",
+     "name_url": "https://www.espncricinfo.com/cricketers/ben-duckett-521637",
+     "role": "Top order Batter",
+     "age": "29y 196d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383141.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/phil-salt-669365",
+     "name": "Phil Salt",
+     "name_url": "https://www.espncricinfo.com/cricketers/phil-salt-669365",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 246d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383142.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/moeen-ali-8917",
+     "name": "Moeen Ali",
+     "name_url": "https://www.espncricinfo.com/cricketers/moeen-ali-8917",
+     "role": "Batting Allrounder",
+     "age": "36y 317d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383100/383153.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/sam-curran-662973",
+     "name": "Sam Curran",
+     "name_url": "https://www.espncricinfo.com/cricketers/sam-curran-662973",
+     "role": "Allrounder",
+     "age": "25y 332d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/will-jacks-897549",
+     "name": "Will Jacks",
+     "name_url": "https://www.espncricinfo.com/cricketers/will-jacks-897549",
+     "role": "Batting Allrounder",
+     "age": "25y 161d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/liam-livingstone-403902",
+     "name": "Liam Livingstone",
+     "name_url": "https://www.espncricinfo.com/cricketers/liam-livingstone-403902",
+     "role": "Batting Allrounder",
+     "age": "30y 270d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak, Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jofra-archer-669855",
+     "name": "Jofra Archer",
+     "name_url": "https://www.espncricinfo.com/cricketers/jofra-archer-669855",
+     "role": "Bowler",
+     "age": "29y 29d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tom-hartley-1150772",
+     "name": "Tom Hartley",
+     "name_url": "https://www.espncricinfo.com/cricketers/tom-hartley-1150772",
+     "role": "Bowler",
+     "age": "24y 363d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/chris-jordan-288992",
+     "name": "Chris Jordan",
+     "name_url": "https://www.espncricinfo.com/cricketers/chris-jordan-288992",
+     "role": "Bowler",
+     "age": "35y 209d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/adil-rashid-244497",
+     "name": "Adil Rashid",
+     "name_url": "https://www.espncricinfo.com/cricketers/adil-rashid-244497",
+     "role": "Bowler",
+     "age": "36y 73d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/reece-topley-461632",
+     "name": "Reece Topley",
+     "name_url": "https://www.espncricinfo.com/cricketers/reece-topley-461632",
+     "role": "Bowler",
+     "age": "30y 69d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mark-wood-351588",
+     "name": "Mark Wood",
+     "name_url": "https://www.espncricinfo.com/cricketers/mark-wood-351588",
+     "role": "Bowler",
+     "age": "34y 110d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381895.png",
+   "name": "India Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-squad-1431601/series-squads",
+   "selection2": [
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/385800/385819.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/rohit-sharma-34102",
+     "name": "Rohit Sharma",
+     "name_url": "https://www.espncricinfo.com/cricketers/rohit-sharma-34102",
+     "role": "Top order Batter",
+     "age": "37y",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/340300/340309.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/yashasvi-jaiswal-1151278",
+     "name": "Yashasvi Jaiswal",
+     "name_url": "https://www.espncricinfo.com/cricketers/yashasvi-jaiswal-1151278",
+     "role": "Opening Batter",
+     "age": "22y 124d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316600/316605.3.png",
+     "url": "https://www.espncricinfo.com/cricketers/virat-kohli-253802",
+     "name": "Virat Kohli",
+     "name_url": "https://www.espncricinfo.com/cricketers/virat-kohli-253802",
+     "role": "Top order Batter",
+     "age": "35y 177d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/323000/323036.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/rishabh-pant-931581",
+     "name": "Rishabh Pant",
+     "name_url": "https://www.espncricinfo.com/cricketers/rishabh-pant-931581",
+     "role": "Wicketkeeper Batter",
+     "age": "26y 209d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/322700/322701.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/sanju-samson-425943",
+     "name": "Sanju Samson",
+     "name_url": "https://www.espncricinfo.com/cricketers/sanju-samson-425943",
+     "role": "Wicketkeeper Batter",
+     "age": "29y 171d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/331100/331163.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507",
+     "name": "Suryakumar Yadav",
+     "name_url": "https://www.espncricinfo.com/cricketers/suryakumar-yadav-446507",
+     "role": "Batter",
+     "age": "33y 229d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium, Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/388300/388343.5.png",
+     "url": "https://www.espncricinfo.com/cricketers/hardik-pandya-625371",
+     "name": "Hardik Pandya",
+     "name_url": "https://www.espncricinfo.com/cricketers/hardik-pandya-625371",
+     "role": "Allrounder",
+     "age": "30y 202d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/383700/383773.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/shivam-dube-714451",
+     "name": "Shivam Dube",
+     "name_url": "https://www.espncricinfo.com/cricketers/shivam-dube-714451",
+     "role": "Allrounder",
+     "age": "30y 309d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ravindra-jadeja-234675",
+     "name": "Ravindra Jadeja",
+     "name_url": "https://www.espncricinfo.com/cricketers/ravindra-jadeja-234675",
+     "role": "Allrounder",
+     "age": "35y 146d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/axar-patel-554691",
+     "name": "Axar Patel",
+     "name_url": "https://www.espncricinfo.com/cricketers/axar-patel-554691",
+     "role": "Allrounder",
+     "age": "30y 101d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/arshdeep-singh-1125976",
+     "name": "Arshdeep Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/arshdeep-singh-1125976",
+     "role": "Bowler",
+     "age": "25y 85d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jasprit-bumrah-625383",
+     "name": "Jasprit Bumrah",
+     "name_url": "https://www.espncricinfo.com/cricketers/jasprit-bumrah-625383",
+     "role": "Bowler",
+     "age": "30y 146d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/yuzvendra-chahal-430246",
+     "name": "Yuzvendra Chahal",
+     "name_url": "https://www.espncricinfo.com/cricketers/yuzvendra-chahal-430246",
+     "role": "Bowler",
+     "age": "33y 282d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kuldeep-yadav-559235",
+     "name": "Kuldeep Yadav",
+     "name_url": "https://www.espncricinfo.com/cricketers/kuldeep-yadav-559235",
+     "role": "Bowler",
+     "age": "29y 138d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Wrist spin"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammed-siraj-940973",
+     "name": "Mohammed Siraj",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammed-siraj-940973",
+     "role": "Bowler",
+     "age": "30y 48d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/313100/313149.logo.png",
+   "name": "Ireland Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/ireland-squad-1432769/series-squads",
+   "selection2": [
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/382100/382113.5.png",
+     "url": "https://www.espncricinfo.com/cricketers/ross-adair-468573",
+     "name": "Ross Adair",
+     "name_url": "https://www.espncricinfo.com/cricketers/ross-adair-468573",
+     "role": "Top order Batter",
+     "age": "30y 16d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/316600/316637.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/andy-balbirnie-303423",
+     "name": "Andy Balbirnie",
+     "name_url": "https://www.espncricinfo.com/cricketers/andy-balbirnie-303423",
+     "role": "Batter",
+     "age": "33y 131d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/339100/339165.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/neil-rock-1112535",
+     "name": "Neil Rock",
+     "name_url": "https://www.espncricinfo.com/cricketers/neil-rock-1112535",
+     "role": "Wicketkeeper Batter",
+     "age": "23y 226d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319800/319873.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/harry-tector-961407",
+     "name": "Harry Tector",
+     "name_url": "https://www.espncricinfo.com/cricketers/harry-tector-961407",
+     "role": "Middle order Batter",
+     "age": "24y 153d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/339100/339164.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/lorcan-tucker-928057",
+     "name": "Lorcan Tucker",
+     "name_url": "https://www.espncricinfo.com/cricketers/lorcan-tucker-928057",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 240d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/382100/382118.3.png",
+     "url": "https://www.espncricinfo.com/cricketers/paul-stirling-303427",
+     "name": "Paul Stirling",
+     "name_url": "https://www.espncricinfo.com/cricketers/paul-stirling-303427",
+     "role": "Batting Allrounder",
+     "age": "33y 247d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/319800/319892.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/mark-adair-526441",
+     "name": "Mark Adair",
+     "name_url": "https://www.espncricinfo.com/cricketers/mark-adair-526441",
+     "role": "Bowling Allrounder",
+     "age": "28y 41d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/curtis-campher-595921",
+     "name": "Curtis Campher",
+     "name_url": "https://www.espncricinfo.com/cricketers/curtis-campher-595921",
+     "role": "Allrounder",
+     "age": "25y 17d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/gareth-delany-1099379",
+     "name": "Gareth Delany",
+     "name_url": "https://www.espncricinfo.com/cricketers/gareth-delany-1099379",
+     "role": "Batting Allrounder",
+     "age": "27y 9d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/george-dockrell-348034",
+     "name": "George Dockrell",
+     "name_url": "https://www.espncricinfo.com/cricketers/george-dockrell-348034",
+     "role": "Allrounder",
+     "age": "31y 290d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/graham-hume-379144",
+     "name": "Graham Hume",
+     "name_url": "https://www.espncricinfo.com/cricketers/graham-hume-379144",
+     "role": "Bowler",
+     "age": "33y 166d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/josh-little-928067",
+     "name": "Josh Little",
+     "name_url": "https://www.espncricinfo.com/cricketers/josh-little-928067",
+     "role": "Bowler",
+     "age": "24y 188d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/barry-mccarthy-348059",
+     "name": "Barry McCarthy",
+     "name_url": "https://www.espncricinfo.com/cricketers/barry-mccarthy-348059",
+     "role": "Bowler",
+     "age": "31y 237d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ben-white-928059",
+     "name": "Ben White",
+     "name_url": "https://www.espncricinfo.com/cricketers/ben-white-928059",
+     "role": "Bowler",
+     "age": "25y 252d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/craig-young-364343",
+     "name": "Craig Young",
+     "name_url": "https://www.espncricinfo.com/cricketers/craig-young-364343",
+     "role": "Bowler",
+     "age": "34y 33d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381857.png",
+   "name": "Namibia Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/namibia-squad-1433240/series-squads",
+   "selection2": [
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/391900/391958.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/nikolaas-davin-595790",
+     "name": "Nikolaas Davin",
+     "name_url": "https://www.espncricinfo.com/cricketers/nikolaas-davin-595790",
+     "role": "Batter",
+     "age": "26y 143d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/350300/350307.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/zane-green-596664",
+     "name": "Zane Green",
+     "name_url": "https://www.espncricinfo.com/cricketers/zane-green-596664",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 212d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/390800/390804.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/jp-kotze-541991",
+     "name": "JP Kotze",
+     "name_url": "https://www.espncricinfo.com/cricketers/jp-kotze-541991",
+     "role": "Batter",
+     "age": "30y 17d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/390700/390713.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/malan-kruger-574638",
+     "name": "Malan Kruger",
+     "name_url": "https://www.espncricinfo.com/cricketers/malan-kruger-574638",
+     "role": "Batter",
+     "age": "29y 28d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/392100/392156.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/dylan-leicher-1256933",
+     "name": "Dylan Leicher",
+     "name_url": "https://www.espncricinfo.com/cricketers/dylan-leicher-1256933",
+     "role": "Middle order Batter",
+     "age": "20y 7d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/329700/329755.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/gerhard-erasmus-519070",
+     "name": "Gerhard Erasmus",
+     "name_url": "https://www.espncricinfo.com/cricketers/gerhard-erasmus-519070",
+     "role": "Allrounder",
+     "age": "29y 29d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/386900/386940.5.png",
+     "url": "https://www.espncricinfo.com/cricketers/jj-smit-553821",
+     "name": "JJ Smit",
+     "name_url": "https://www.espncricinfo.com/cricketers/jj-smit-553821",
+     "role": "Bowling Allrounder",
+     "age": "28y 182d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jan-frylinck-482478",
+     "name": "Jan Frylinck",
+     "name_url": "https://www.espncricinfo.com/cricketers/jan-frylinck-482478",
+     "role": "Allrounder",
+     "age": "30y 34d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/michael-van-lingen-833777",
+     "name": "Michael van Lingen",
+     "name_url": "https://www.espncricinfo.com/cricketers/michael-van-lingen-833777",
+     "role": "Bowling Allrounder",
+     "age": "26y 199d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium, Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/david-wiese-221140",
+     "name": "David Wiese",
+     "name_url": "https://www.espncricinfo.com/cricketers/david-wiese-221140",
+     "role": "Allrounder",
+     "age": "38y 358d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/peter-daniel-blignaut-1256934",
+     "name": "Peter-Daniel Blignaut",
+     "name_url": "https://www.espncricinfo.com/cricketers/peter-daniel-blignaut-1256934",
+     "role": "Bowler",
+     "age": "18y 202d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jack-brassell-1310415",
+     "name": "Jack Brassell",
+     "name_url": "https://www.espncricinfo.com/cricketers/jack-brassell-1310415",
+     "role": "Bowler",
+     "age": "19y 40d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tangeni-lungameni-524075",
+     "name": "Tangeni Lungameni",
+     "name_url": "https://www.espncricinfo.com/cricketers/tangeni-lungameni-524075",
+     "role": "Bowler",
+     "age": "32y 23d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/bernard-scholtz-330223",
+     "name": "Bernard Scholtz",
+     "name_url": "https://www.espncricinfo.com/cricketers/bernard-scholtz-330223",
+     "role": "Bowler",
+     "age": "33y 220d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ben-shikongo-1069820",
+     "name": "Ben Shikongo",
+     "name_url": "https://www.espncricinfo.com/cricketers/ben-shikongo-1069820",
+     "role": "Bowler",
+     "age": "24y 2d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ruben-trumpelmann-698317",
+     "name": "Ruben Trumpelmann",
+     "name_url": "https://www.espncricinfo.com/cricketers/ruben-trumpelmann-698317",
+     "role": "Bowler",
+     "age": "26y 99d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/319900/319958.png",
+   "name": "Nepal Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-squad-1431788/series-squads",
+   "selection2": [
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/392100/392138.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/aasif-sheikh-1058514",
+     "name": "Aasif Sheikh",
+     "name_url": "https://www.espncricinfo.com/cricketers/aasif-sheikh-1058514",
+     "role": "Wicketkeeper Batter",
+     "age": "22y 314d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/330400/330438.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/dipendra-singh-airee-794707",
+     "name": "Dipendra Singh Airee",
+     "name_url": "https://www.espncricinfo.com/cricketers/dipendra-singh-airee-794707",
+     "role": "Middle order Batter",
+     "age": "24y 98d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium, Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/330400/330443.1.png",
+     "url": "https://www.espncricinfo.com/cricketers/kushal-bhurtel-794713",
+     "name": "Kushal Bhurtel",
+     "name_url": "https://www.espncricinfo.com/cricketers/kushal-bhurtel-794713",
+     "role": "Opening Batter",
+     "age": "27y 100d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/392100/392140.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/sundeep-jora-1161022",
+     "name": "Sundeep Jora",
+     "name_url": "https://www.espncricinfo.com/cricketers/sundeep-jora-1161022",
+     "role": "Middle order Batter",
+     "age": "22y 194d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/386900/386934.5.png",
+     "url": "https://www.espncricinfo.com/cricketers/anil-sah-1058510",
+     "name": "Anil Sah",
+     "name_url": "https://www.espncricinfo.com/cricketers/anil-sah-1058510",
+     "role": "Wicketkeeper",
+     "age": "25y 166d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/386700/386763.5.png",
+     "url": "https://www.espncricinfo.com/cricketers/rohit-paudel-1072488",
+     "name": "Rohit Paudel",
+     "name_url": "https://www.espncricinfo.com/cricketers/rohit-paudel-1072488",
+     "role": "Batting Allrounder",
+     "age": "21y 242d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100/lsci/db/PICTURES/CMS/391200/391219.2.png",
+     "url": "https://www.espncricinfo.com/cricketers/gulsan-jha-1253822",
+     "name": "Gulsan Jha",
+     "name_url": "https://www.espncricinfo.com/cricketers/gulsan-jha-1253822",
+     "role": "Allrounder",
+     "age": "18y 74d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/karan-kc-800675",
+     "name": "Karan KC",
+     "name_url": "https://www.espncricinfo.com/cricketers/karan-kc-800675",
+     "role": "Allrounder",
+     "age": "32y 204d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kushal-malla-1141934",
+     "name": "Kushal Malla",
+     "name_url": "https://www.espncricinfo.com/cricketers/kushal-malla-1141934",
+     "role": "Batting Allrounder",
+     "age": "20y 57d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sompal-kami-701215",
+     "name": "Sompal Kami",
+     "name_url": "https://www.espncricinfo.com/cricketers/sompal-kami-701215",
+     "role": "Bowling Allrounder",
+     "age": "28y 89d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/pratis-gc-1179855",
+     "name": "Pratis GC",
+     "name_url": "https://www.espncricinfo.com/cricketers/pratis-gc-1179855",
+     "role": "Bowling Allrounder",
+     "age": "19y 345d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kamal-airee-1072482",
+     "name": "Kamal Airee",
+     "name_url": "https://www.espncricinfo.com/cricketers/kamal-airee-1072482",
+     "role": "Bowler",
+     "age": "23y 134d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/abinash-bohara-1058508",
+     "name": "Abinash Bohara",
+     "name_url": "https://www.espncricinfo.com/cricketers/abinash-bohara-1058508",
+     "role": "Bowler",
+     "age": "26y 276d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sagar-dhakal-1147980",
+     "name": "Sagar Dhakal",
+     "name_url": "https://www.espncricinfo.com/cricketers/sagar-dhakal-1147980",
+     "role": "Bowler",
+     "age": "22y 139d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sandeep-lamichhane-960361",
+     "name": "Sandeep Lamichhane",
+     "name_url": "https://www.espncricinfo.com/cricketers/sandeep-lamichhane-960361",
+     "role": "Bowler",
+     "age": "23y 273d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/lalit-rajbanshi-913853",
+     "name": "Lalit Rajbanshi",
+     "name_url": "https://www.espncricinfo.com/cricketers/lalit-rajbanshi-913853",
+     "role": "Bowler",
+     "age": "25y 64d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381893.png",
+   "name": "Netherlands Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-squad-1433671/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/scott-edwards-1127317",
+     "name": "Scott Edwards",
+     "name_url": "https://www.espncricinfo.com/cricketers/scott-edwards-1127317",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 264d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/wesley-barresi-44407",
+     "name": "Wesley Barresi",
+     "name_url": "https://www.espncricinfo.com/cricketers/wesley-barresi-44407",
+     "role": "Batter",
+     "age": "40y 10d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/michael-levitt-1071504",
+     "name": "Michael Levitt",
+     "name_url": "https://www.espncricinfo.com/cricketers/michael-levitt-1071504",
+     "role": "Top order Batter",
+     "age": "20y 329d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/max-o-dowd-643197",
+     "name": "Max O'Dowd",
+     "name_url": "https://www.espncricinfo.com/cricketers/max-o-dowd-643197",
+     "role": "Opening Batter",
+     "age": "30y 70d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767",
+     "name": "Vikramjit Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/vikramjit-singh-1153767",
+     "role": "Opening Batter",
+     "age": "21y 125d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/bas-de-leede-1036191",
+     "name": "Bas de Leede",
+     "name_url": "https://www.espncricinfo.com/cricketers/bas-de-leede-1036191",
+     "role": "Batting Allrounder",
+     "age": "24y 180d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sybrand-engelbrecht-315035",
+     "name": "Sybrand Engelbrecht",
+     "name_url": "https://www.espncricinfo.com/cricketers/sybrand-engelbrecht-315035",
+     "role": "Allrounder",
+     "age": "35y 241d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/teja-nidamanuru-1129328",
+     "name": "Teja Nidamanuru",
+     "name_url": "https://www.espncricinfo.com/cricketers/teja-nidamanuru-1129328",
+     "role": "Allrounder",
+     "age": "29y 265d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tim-pringle-1193548",
+     "name": "Tim Pringle",
+     "name_url": "https://www.espncricinfo.com/cricketers/tim-pringle-1193548",
+     "role": "Allrounder",
+     "age": "21y 258d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/saqib-zulfiqar-526481",
+     "name": "Saqib Zulfiqar",
+     "name_url": "https://www.espncricinfo.com/cricketers/saqib-zulfiqar-526481",
+     "role": "Bowling Allrounder",
+     "age": "27y 46d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/aryan-dutt-1195672",
+     "name": "Aryan Dutt",
+     "name_url": "https://www.espncricinfo.com/cricketers/aryan-dutt-1195672",
+     "role": "Bowler",
+     "age": "21y 1d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/vivian-kingma-416103",
+     "name": "Vivian Kingma",
+     "name_url": "https://www.espncricinfo.com/cricketers/vivian-kingma-416103",
+     "role": "Bowler",
+     "age": "29y 203d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kyle-klein-1195670",
+     "name": "Kyle Klein",
+     "name_url": "https://www.espncricinfo.com/cricketers/kyle-klein-1195670",
+     "role": "Bowler",
+     "age": "22y 315d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/logan-van-beek-440522",
+     "name": "Logan van Beek",
+     "name_url": "https://www.espncricinfo.com/cricketers/logan-van-beek-440522",
+     "role": "Bowler",
+     "age": "33y 249d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109",
+     "name": "Paul van Meekeren",
+     "name_url": "https://www.espncricinfo.com/cricketers/paul-van-meekeren-348109",
+     "role": "Bowler",
+     "age": "31y 119d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/daniel-doram-643133",
+     "name": "Daniel Doram",
+     "name_url": "https://www.espncricinfo.com/cricketers/daniel-doram-643133",
+     "role": "Bowler",
+     "age": "26y 213d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fred-klaassen-1104703",
+     "name": "Fred Klaassen",
+     "name_url": "https://www.espncricinfo.com/cricketers/fred-klaassen-1104703",
+     "role": "Bowler",
+     "age": "31y 182d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/340500/340505.png",
+   "name": "New Zealand Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-squad-1431440/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kane-williamson-277906",
+     "name": "Kane Williamson",
+     "name_url": "https://www.espncricinfo.com/cricketers/kane-williamson-277906",
+     "role": "Top order Batter",
+     "age": "33y 265d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/finn-allen-959759",
+     "name": "Finn Allen",
+     "name_url": "https://www.espncricinfo.com/cricketers/finn-allen-959759",
+     "role": "Top order Batter",
+     "age": "25y 7d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/devon-conway-379140",
+     "name": "Devon Conway",
+     "name_url": "https://www.espncricinfo.com/cricketers/devon-conway-379140",
+     "role": "Wicketkeeper Batter",
+     "age": "32y 296d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/michael-bracewell-326968",
+     "name": "Michael Bracewell",
+     "name_url": "https://www.espncricinfo.com/cricketers/michael-bracewell-326968",
+     "role": "Batting Allrounder",
+     "age": "33y 75d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mark-chapman-438563",
+     "name": "Mark Chapman",
+     "name_url": "https://www.espncricinfo.com/cricketers/mark-chapman-438563",
+     "role": "Allrounder",
+     "age": "29y 307d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/daryl-mitchell-381743",
+     "name": "Daryl Mitchell",
+     "name_url": "https://www.espncricinfo.com/cricketers/daryl-mitchell-381743",
+     "role": "Batting Allrounder",
+     "age": "32y 345d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/james-neesham-355269",
+     "name": "James Neesham",
+     "name_url": "https://www.espncricinfo.com/cricketers/james-neesham-355269",
+     "role": "Batting Allrounder",
+     "age": "33y 225d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/glenn-phillips-823509",
+     "name": "Glenn Phillips",
+     "name_url": "https://www.espncricinfo.com/cricketers/glenn-phillips-823509",
+     "role": "Allrounder",
+     "age": "27y 145d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rachin-ravindra-959767",
+     "name": "Rachin Ravindra",
+     "name_url": "https://www.espncricinfo.com/cricketers/rachin-ravindra-959767",
+     "role": "Batting Allrounder",
+     "age": "24y 163d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mitchell-santner-502714",
+     "name": "Mitchell Santner",
+     "name_url": "https://www.espncricinfo.com/cricketers/mitchell-santner-502714",
+     "role": "Bowling Allrounder",
+     "age": "32y 84d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/trent-boult-277912",
+     "name": "Trent Boult",
+     "name_url": "https://www.espncricinfo.com/cricketers/trent-boult-277912",
+     "role": "Bowler",
+     "age": "34y 282d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/lockie-ferguson-493773",
+     "name": "Lockie Ferguson",
+     "name_url": "https://www.espncricinfo.com/cricketers/lockie-ferguson-493773",
+     "role": "Bowler",
+     "age": "32y 321d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/matt-henry-506612",
+     "name": "Matt Henry",
+     "name_url": "https://www.espncricinfo.com/cricketers/matt-henry-506612",
+     "role": "Bowler",
+     "age": "32y 137d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ish-sodhi-559066",
+     "name": "Ish Sodhi",
+     "name_url": "https://www.espncricinfo.com/cricketers/ish-sodhi-559066",
+     "role": "Bowler",
+     "age": "31y 181d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tim-southee-232364",
+     "name": "Tim Southee",
+     "name_url": "https://www.espncricinfo.com/cricketers/tim-southee-232364",
+     "role": "Bowler",
+     "age": "35y 140d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    }
+   ]
+  },
+  {
+   "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/381800/381858.png",
+   "name": "Oman Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-squad-1431785/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/aqib-ilyas-940593",
+     "name": "Aqib Ilyas",
+     "name_url": "https://www.espncricinfo.com/cricketers/aqib-ilyas-940593",
+     "role": "Top order Batter",
+     "age": "31y 239d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak, Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/pratik-athavale-1402600",
+     "name": "Pratik Athavale",
+     "name_url": "https://www.espncricinfo.com/cricketers/pratik-athavale-1402600",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 11d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/khalid-kail-624813",
+     "name": "Khalid Kail",
+     "name_url": "https://www.espncricinfo.com/cricketers/khalid-kail-624813",
+     "role": "Middle order Batter",
+     "age": "27y 201d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mehran-khan-888565",
+     "name": "Mehran Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/mehran-khan-888565",
+     "role": "Batter",
+     "age": "37y 18d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/naseem-khushi-1077310",
+     "name": "Naseem Khushi",
+     "name_url": "https://www.espncricinfo.com/cricketers/naseem-khushi-1077310",
+     "role": "Wicketkeeper",
+     "age": "41y 264d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kashyap-prajapati-1276719",
+     "name": "Kashyap Prajapati",
+     "name_url": "https://www.espncricinfo.com/cricketers/kashyap-prajapati-1276719",
+     "role": "Top order Batter",
+     "age": "28y 203d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shoaib-khan-1276700",
+     "name": "Shoaib Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/shoaib-khan-1276700",
+     "role": "Batter",
+     "age": "31y 147d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/zeeshan-maqsood-585083",
+     "name": "Zeeshan Maqsood",
+     "name_url": "https://www.espncricinfo.com/cricketers/zeeshan-maqsood-585083",
+     "role": "Opening Batter",
+     "age": "36y 190d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ayaan-khan-956319",
+     "name": "Ayaan Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/ayaan-khan-956319",
+     "role": "Allrounder",
+     "age": "31y 245d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammad-nadeem-41984",
+     "name": "Mohammad Nadeem",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammad-nadeem-41984",
+     "role": "Allrounder",
+     "age": "41y 240d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/bilal-khan-937953",
+     "name": "Bilal Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/bilal-khan-937953",
+     "role": "Bowler",
+     "age": "37y 21d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fayyaz-butt-436749",
+     "name": "Fayyaz Butt",
+     "name_url": "https://www.espncricinfo.com/cricketers/fayyaz-butt-436749",
+     "role": "Bowler",
+     "age": "30y 258d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kaleemullah-1077307",
+     "name": "Kaleemullah",
+     "name_url": "https://www.espncricinfo.com/cricketers/kaleemullah-1077307",
+     "role": "Bowler",
+     "age": "33y 129d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rafiullah-1174143",
+     "name": "Rafiullah",
+     "name_url": "https://www.espncricinfo.com/cricketers/rafiullah-1174143",
+     "role": "Bowler",
+     "age": "27y 259d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shakeel-ahmed-681801",
+     "name": "Shakeel Ahmed",
+     "name_url": "https://www.espncricinfo.com/cricketers/shakeel-ahmed-681801",
+     "role": "Bowler",
+     "age": "36y 87d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "Pakistan Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/pakistan-squad-1435201/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/babar-azam-348144",
+     "name": "Babar Azam",
+     "name_url": "https://www.espncricinfo.com/cricketers/babar-azam-348144",
+     "role": "Batter",
+     "age": "29y 222d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/azam-khan-1137262",
+     "name": "Azam Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/azam-khan-1137262",
+     "role": "Wicketkeeper Batter",
+     "age": "25y 288d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fakhar-zaman-512191",
+     "name": "Fakhar Zaman",
+     "name_url": "https://www.espncricinfo.com/cricketers/fakhar-zaman-512191",
+     "role": "Opening Batter",
+     "age": "34y 44d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603",
+     "name": "Iftikhar Ahmed",
+     "name_url": "https://www.espncricinfo.com/cricketers/iftikhar-ahmed-480603",
+     "role": "Middle order Batter",
+     "age": "33y 264d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389",
+     "name": "Mohammad Rizwan",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammad-rizwan-323389",
+     "role": "Wicketkeeper Batter",
+     "age": "31y 358d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/saim-ayub-1161031",
+     "name": "Saim Ayub",
+     "name_url": "https://www.espncricinfo.com/cricketers/saim-ayub-1161031",
+     "role": "Top order Batter",
+     "age": "22y",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/usman-khan-1123428",
+     "name": "Usman Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/usman-khan-1123428",
+     "role": "Wicketkeeper Batter",
+     "age": "29y 14d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/imad-wasim-227758",
+     "name": "Imad Wasim",
+     "name_url": "https://www.espncricinfo.com/cricketers/imad-wasim-227758",
+     "role": "Allrounder",
+     "age": "35y 158d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shadab-khan-922943",
+     "name": "Shadab Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/shadab-khan-922943",
+     "role": "Allrounder",
+     "age": "25y 233d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/abbas-afridi-1158538",
+     "name": "Abbas Afridi",
+     "name_url": "https://www.espncricinfo.com/cricketers/abbas-afridi-1158538",
+     "role": "Bowler",
+     "age": "23y 49d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/abrar-ahmed-734459",
+     "name": "Abrar Ahmed",
+     "name_url": "https://www.espncricinfo.com/cricketers/abrar-ahmed-734459",
+     "role": "Bowler",
+     "age": "25y 256d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/haris-rauf-1161606",
+     "name": "Haris Rauf",
+     "name_url": "https://www.espncricinfo.com/cricketers/haris-rauf-1161606",
+     "role": "Bowler",
+     "age": "30y 199d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mohammad-amir-290948",
+     "name": "Mohammad Amir",
+     "name_url": "https://www.espncricinfo.com/cricketers/mohammad-amir-290948",
+     "role": "Bowler",
+     "age": "32y 41d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/naseem-shah-1158088",
+     "name": "Naseem Shah",
+     "name_url": "https://www.espncricinfo.com/cricketers/naseem-shah-1158088",
+     "role": "Bowler",
+     "age": "21y 99d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shaheen-shah-afridi-1072470",
+     "name": "Shaheen Shah Afridi",
+     "name_url": "https://www.espncricinfo.com/cricketers/shaheen-shah-afridi-1072470",
+     "role": "Bowler",
+     "age": "24y 48d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "Papua New Guinea Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/papua-new-guinea-squad-1432846/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/assad-vala-25056",
+     "name": "Assad Vala",
+     "name_url": "https://www.espncricinfo.com/cricketers/assad-vala-25056",
+     "role": "Batter",
+     "age": "36y 277d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sese-bau-420427",
+     "name": "Sese Bau",
+     "name_url": "https://www.espncricinfo.com/cricketers/sese-bau-420427",
+     "role": "Middle order Batter",
+     "age": "31y 320d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kiplin-doriga-646173",
+     "name": "Kiplin Doriga",
+     "name_url": "https://www.espncricinfo.com/cricketers/kiplin-doriga-646173",
+     "role": "Wicketkeeper Batter",
+     "age": "28y 203d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/hiri-hiri-646175",
+     "name": "Hiri Hiri",
+     "name_url": "https://www.espncricinfo.com/cricketers/hiri-hiri-646175",
+     "role": "Middle order Batter",
+     "age": "29y 7d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/lega-siaka-440990",
+     "name": "Lega Siaka",
+     "name_url": "https://www.espncricinfo.com/cricketers/lega-siaka-440990",
+     "role": "Opening Batter",
+     "age": "31y 139d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium, Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tony-ura-302845",
+     "name": "Tony Ura",
+     "name_url": "https://www.espncricinfo.com/cricketers/tony-ura-302845",
+     "role": "Opening Batter",
+     "age": "34y 206d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/hila-vare-1186229",
+     "name": "Hila Vare",
+     "name_url": "https://www.espncricinfo.com/cricketers/hila-vare-1186229",
+     "role": "Batter",
+     "age": "22y 272d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/charles-amini-332980",
+     "name": "Charles Amini",
+     "name_url": "https://www.espncricinfo.com/cricketers/charles-amini-332980",
+     "role": "Allrounder",
+     "age": "32y 24d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jack-gardner-1276399",
+     "name": "Jack Gardner",
+     "name_url": "https://www.espncricinfo.com/cricketers/jack-gardner-1276399",
+     "role": "Bowler",
+     "age": "23y 137d"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/semo-kamea-1115025",
+     "name": "Semo Kamea",
+     "name_url": "https://www.espncricinfo.com/cricketers/semo-kamea-1115025",
+     "role": "Bowler",
+     "age": "22y 261d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/john-kariko-1295879",
+     "name": "John Kariko",
+     "name_url": "https://www.espncricinfo.com/cricketers/john-kariko-1295879",
+     "role": "Bowler",
+     "age": "20y 113d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kabua-morea-524255",
+     "name": "Kabua Morea",
+     "name_url": "https://www.espncricinfo.com/cricketers/kabua-morea-524255",
+     "role": "Bowler",
+     "age": "30y 221d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/alei-nao-524247",
+     "name": "Alei Nao",
+     "name_url": "https://www.espncricinfo.com/cricketers/alei-nao-524247",
+     "role": "Bowler",
+     "age": "30y 151d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/chad-soper-574287",
+     "name": "Chad Soper",
+     "name_url": "https://www.espncricinfo.com/cricketers/chad-soper-574287",
+     "role": "Bowler",
+     "age": "32y 171d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/norman-vanua-524253",
+     "name": "Norman Vanua",
+     "name_url": "https://www.espncricinfo.com/cricketers/norman-vanua-524253",
+     "role": "Bowler",
+     "age": "30y 158d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "Scotland Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/scotland-squad-1432589/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/richie-berrington-25490",
+     "name": "Richie Berrington",
+     "name_url": "https://www.espncricinfo.com/cricketers/richie-berrington-25490",
+     "role": "Top order Batter",
+     "age": "37y 33d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/matthew-cross-417268",
+     "name": "Matthew Cross",
+     "name_url": "https://www.espncricinfo.com/cricketers/matthew-cross-417268",
+     "role": "Wicketkeeper Batter",
+     "age": "31y 204d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ollie-hairs-414973",
+     "name": "Ollie Hairs",
+     "name_url": "https://www.espncricinfo.com/cricketers/ollie-hairs-414973",
+     "role": "Opening Batter",
+     "age": "33y 22d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/michael-jones-1093091",
+     "name": "Michael Jones",
+     "name_url": "https://www.espncricinfo.com/cricketers/michael-jones-1093091",
+     "role": "Top order Batter",
+     "age": "26y 122d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/george-munsey-671805",
+     "name": "George Munsey",
+     "name_url": "https://www.espncricinfo.com/cricketers/george-munsey-671805",
+     "role": "Opening Batter",
+     "age": "31y 75d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/charlie-tear-1266476",
+     "name": "Charlie Tear",
+     "name_url": "https://www.espncricinfo.com/cricketers/charlie-tear-1266476",
+     "role": "Wicketkeeper Batter",
+     "age": "19y 329d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/michael-leask-414966",
+     "name": "Michael Leask",
+     "name_url": "https://www.espncricinfo.com/cricketers/michael-leask-414966",
+     "role": "Allrounder",
+     "age": "33y 190d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/brandon-mcmullen-949473",
+     "name": "Brandon McMullen",
+     "name_url": "https://www.espncricinfo.com/cricketers/brandon-mcmullen-949473",
+     "role": "Batting Allrounder",
+     "age": "24y 201d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/brad-currie-1000791",
+     "name": "Brad Currie",
+     "name_url": "https://www.espncricinfo.com/cricketers/brad-currie-1000791",
+     "role": "Bowler",
+     "age": "25y 180d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/chris-greaves-873199",
+     "name": "Chris Greaves",
+     "name_url": "https://www.espncricinfo.com/cricketers/chris-greaves-873199",
+     "role": "Bowler",
+     "age": "33y 207d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jack-jarvis-1278263",
+     "name": "Jack Jarvis",
+     "name_url": "https://www.espncricinfo.com/cricketers/jack-jarvis-1278263",
+     "role": "Bowler",
+     "age": "20y 343d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/safyaan-sharif-414970",
+     "name": "Safyaan Sharif",
+     "name_url": "https://www.espncricinfo.com/cricketers/safyaan-sharif-414970",
+     "role": "Bowler",
+     "age": "32y 348d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/chris-sole-671823",
+     "name": "Chris Sole",
+     "name_url": "https://www.espncricinfo.com/cricketers/chris-sole-671823",
+     "role": "Bowler",
+     "age": "30y 69d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/mark-watt-659081",
+     "name": "Mark Watt",
+     "name_url": "https://www.espncricinfo.com/cricketers/mark-watt-659081",
+     "role": "Bowler",
+     "age": "27y 282d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/brad-wheal-807535",
+     "name": "Brad Wheal",
+     "name_url": "https://www.espncricinfo.com/cricketers/brad-wheal-807535",
+     "role": "Bowler",
+     "age": "27y 252d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "South Africa Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/south-africa-squad-1431579/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/quinton-de-kock-379143",
+     "name": "Quinton de Kock",
+     "name_url": "https://www.espncricinfo.com/cricketers/quinton-de-kock-379143",
+     "role": "Wicketkeeper Batter",
+     "age": "31y 135d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/reeza-hendricks-269280",
+     "name": "Reeza Hendricks",
+     "name_url": "https://www.espncricinfo.com/cricketers/reeza-hendricks-269280",
+     "role": "Opening Batter",
+     "age": "34y 260d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/heinrich-klaasen-436757",
+     "name": "Heinrich Klaasen",
+     "name_url": "https://www.espncricinfo.com/cricketers/heinrich-klaasen-436757",
+     "role": "Wicketkeeper Batter",
+     "age": "32y 275d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/david-miller-321777",
+     "name": "David Miller",
+     "name_url": "https://www.espncricinfo.com/cricketers/david-miller-321777",
+     "role": "Middle order Batter",
+     "age": "34y 325d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ryan-rickelton-605661",
+     "name": "Ryan Rickelton",
+     "name_url": "https://www.espncricinfo.com/cricketers/ryan-rickelton-605661",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 294d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tristan-stubbs-595978",
+     "name": "Tristan Stubbs",
+     "name_url": "https://www.espncricinfo.com/cricketers/tristan-stubbs-595978",
+     "role": "Batter",
+     "age": "23y 260d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/aiden-markram-600498",
+     "name": "Aiden Markram",
+     "name_url": "https://www.espncricinfo.com/cricketers/aiden-markram-600498",
+     "role": "Allrounder",
+     "age": "29y 209d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/marco-jansen-696401",
+     "name": "Marco Jansen",
+     "name_url": "https://www.espncricinfo.com/cricketers/marco-jansen-696401",
+     "role": "Bowling Allrounder",
+     "age": "23y 365d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ottneil-baartman-535353",
+     "name": "Ottneil Baartman",
+     "name_url": "https://www.espncricinfo.com/cricketers/ottneil-baartman-535353",
+     "role": "Bowler",
+     "age": "31y 43d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/gerald-coetzee-596010",
+     "name": "Gerald Coetzee",
+     "name_url": "https://www.espncricinfo.com/cricketers/gerald-coetzee-596010",
+     "role": "Bowler",
+     "age": "23y 211d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/bjorn-fortuin-553249",
+     "name": "Bjorn Fortuin",
+     "name_url": "https://www.espncricinfo.com/cricketers/bjorn-fortuin-553249",
+     "role": "Bowler",
+     "age": "29y 192d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/keshav-maharaj-267724",
+     "name": "Keshav Maharaj",
+     "name_url": "https://www.espncricinfo.com/cricketers/keshav-maharaj-267724",
+     "role": "Bowler",
+     "age": "34y 83d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/anrich-nortje-481979",
+     "name": "Anrich Nortje",
+     "name_url": "https://www.espncricinfo.com/cricketers/anrich-nortje-481979",
+     "role": "Bowler",
+     "age": "30y 166d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kagiso-rabada-550215",
+     "name": "Kagiso Rabada",
+     "name_url": "https://www.espncricinfo.com/cricketers/kagiso-rabada-550215",
+     "role": "Bowler",
+     "age": "28y 341d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/tabraiz-shamsi-379145",
+     "name": "Tabraiz Shamsi",
+     "name_url": "https://www.espncricinfo.com/cricketers/tabraiz-shamsi-379145",
+     "role": "Bowler",
+     "age": "34y 72d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Wrist spin"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "Sri Lanka Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/sri-lanka-squad-1433061/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kusal-mendis-629074",
+     "name": "Kusal Mendis",
+     "name_url": "https://www.espncricinfo.com/cricketers/kusal-mendis-629074",
+     "role": "Wicketkeeper Batter",
+     "age": "29y 97d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655",
+     "name": "Pathum Nissanka",
+     "name_url": "https://www.espncricinfo.com/cricketers/pathum-nissanka-1028655",
+     "role": "Top order Batter",
+     "age": "25y 357d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sadeera-samarawickrama-629076",
+     "name": "Sadeera Samarawickrama",
+     "name_url": "https://www.espncricinfo.com/cricketers/sadeera-samarawickrama-629076",
+     "role": "Wicketkeeper Batter",
+     "age": "28y 253d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379",
+     "name": "Wanindu Hasaranga",
+     "name_url": "https://www.espncricinfo.com/cricketers/wanindu-hasaranga-784379",
+     "role": "Allrounder",
+     "age": "26y 285d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/charith-asalanka-784367",
+     "name": "Charith Asalanka",
+     "name_url": "https://www.espncricinfo.com/cricketers/charith-asalanka-784367",
+     "role": "Batting Allrounder",
+     "age": "26y 315d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793",
+     "name": "Dhananjaya de Silva",
+     "name_url": "https://www.espncricinfo.com/cricketers/dhananjaya-de-silva-465793",
+     "role": "Allrounder",
+     "age": "32y 246d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/angelo-mathews-49764",
+     "name": "Angelo Mathews",
+     "name_url": "https://www.espncricinfo.com/cricketers/angelo-mathews-49764",
+     "role": "Allrounder",
+     "age": "36y 342d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kamindu-mendis-784373",
+     "name": "Kamindu Mendis",
+     "name_url": "https://www.espncricinfo.com/cricketers/kamindu-mendis-784373",
+     "role": "Allrounder",
+     "age": "25y 222d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak, Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dasun-shanaka-437316",
+     "name": "Dasun Shanaka",
+     "name_url": "https://www.espncricinfo.com/cricketers/dasun-shanaka-437316",
+     "role": "Allrounder",
+     "age": "32y 243d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dushmantha-chameera-552152",
+     "name": "Dushmantha Chameera",
+     "name_url": "https://www.espncricinfo.com/cricketers/dushmantha-chameera-552152",
+     "role": "Bowler",
+     "age": "32y 119d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dilshan-madushanka-793007",
+     "name": "Dilshan Madushanka",
+     "name_url": "https://www.espncricinfo.com/cricketers/dilshan-madushanka-793007",
+     "role": "Bowler",
+     "age": "23y 234d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/matheesha-pathirana-1194795",
+     "name": "Matheesha Pathirana",
+     "name_url": "https://www.espncricinfo.com/cricketers/matheesha-pathirana-1194795",
+     "role": "Bowler",
+     "age": "21y 143d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/maheesh-theekshana-1138316",
+     "name": "Maheesh Theekshana",
+     "name_url": "https://www.espncricinfo.com/cricketers/maheesh-theekshana-1138316",
+     "role": "Bowler",
+     "age": "23y 282d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nuwan-thushara-955235",
+     "name": "Nuwan Thushara",
+     "name_url": "https://www.espncricinfo.com/cricketers/nuwan-thushara-955235",
+     "role": "Bowler",
+     "age": "29y 277d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dunith-wellalage-1152427",
+     "name": "Dunith Wellalage",
+     "name_url": "https://www.espncricinfo.com/cricketers/dunith-wellalage-1152427",
+     "role": "Bowler",
+     "age": "21y 121d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "Uganda Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/uganda-squad-1432588/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/fred-achelam-1107652",
+     "name": "Fred Achelam",
+     "name_url": "https://www.espncricinfo.com/cricketers/fred-achelam-1107652",
+     "role": "Wicketkeeper Batter",
+     "age": "23y 100d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/roger-mukasa-233528",
+     "name": "Roger Mukasa",
+     "name_url": "https://www.espncricinfo.com/cricketers/roger-mukasa-233528",
+     "role": "Batter",
+     "age": "34y 350d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/robinson-obuya-1380565",
+     "name": "Robinson Obuya",
+     "name_url": "https://www.espncricinfo.com/cricketers/robinson-obuya-1380565",
+     "role": "Batter",
+     "age": "23y 146d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ronak-patel-1151337",
+     "name": "Ronak Patel",
+     "name_url": "https://www.espncricinfo.com/cricketers/ronak-patel-1151337",
+     "role": "Batter",
+     "age": "35y 262d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/simon-ssesazi-531312",
+     "name": "Simon Ssesazi",
+     "name_url": "https://www.espncricinfo.com/cricketers/simon-ssesazi-531312",
+     "role": "Wicketkeeper Batter",
+     "age": "27y 260d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Slow"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/riazat-ali-shah-1129565",
+     "name": "Riazat Ali Shah",
+     "name_url": "https://www.espncricinfo.com/cricketers/riazat-ali-shah-1129565",
+     "role": "Batting Allrounder",
+     "age": "26y 76d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/dinesh-nakrani-731523",
+     "name": "Dinesh Nakrani",
+     "name_url": "https://www.espncricinfo.com/cricketers/dinesh-nakrani-731523",
+     "role": "Allrounder",
+     "age": "32y 228d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/frank-nsubuga-26139",
+     "name": "Frank Nsubuga",
+     "name_url": "https://www.espncricinfo.com/cricketers/frank-nsubuga-26139",
+     "role": "Allrounder",
+     "age": "43y 252d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/alpesh-ramjani-1178061",
+     "name": "Alpesh Ramjani",
+     "name_url": "https://www.espncricinfo.com/cricketers/alpesh-ramjani-1178061",
+     "role": "Allrounder",
+     "age": "29y 225d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kenneth-waiswa-928109",
+     "name": "Kenneth Waiswa",
+     "name_url": "https://www.espncricinfo.com/cricketers/kenneth-waiswa-928109",
+     "role": "Allrounder",
+     "age": "25y 177d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/brian-masaba-420492",
+     "name": "Brian Masaba",
+     "name_url": "https://www.espncricinfo.com/cricketers/brian-masaba-420492",
+     "role": "Bowler",
+     "age": "32y 227d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium, Right arm Offbreak, Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/bilal-hassan-1151338",
+     "name": "Bilal Hassan",
+     "name_url": "https://www.espncricinfo.com/cricketers/bilal-hassan-1151338",
+     "role": "Bowler",
+     "age": "34y 21d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/cosmas-kyewuta-1107651",
+     "name": "Cosmas Kyewuta",
+     "name_url": "https://www.espncricinfo.com/cricketers/cosmas-kyewuta-1107651",
+     "role": "Bowler",
+     "age": "22y 130d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/juma-miyagi-1178060",
+     "name": "Juma Miyagi",
+     "name_url": "https://www.espncricinfo.com/cricketers/juma-miyagi-1178060",
+     "role": "Bowler",
+     "age": "21y 31d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/henry-ssenyondo-420490",
+     "name": "Henry Ssenyondo",
+     "name_url": "https://www.espncricinfo.com/cricketers/henry-ssenyondo-420490",
+     "role": "Bowler",
+     "age": "30y 268d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "United States of America Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/united-states-of-america-squad-1432101/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/monank-patel-1159641",
+     "name": "Monank Patel",
+     "name_url": "https://www.espncricinfo.com/cricketers/monank-patel-1159641",
+     "role": "Wicketkeeper Batter",
+     "age": "31y 2d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/aaron-jones-957645",
+     "name": "Aaron Jones",
+     "name_url": "https://www.espncricinfo.com/cricketers/aaron-jones-957645",
+     "role": "Top order Batter",
+     "age": "29y 197d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Legbreak Googly"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/andries-gous-485379",
+     "name": "Andries Gous",
+     "name_url": "https://www.espncricinfo.com/cricketers/andries-gous-485379",
+     "role": "Wicketkeeper Batter",
+     "age": "30y 161d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nitish-kumar-348129",
+     "name": "Nitish Kumar",
+     "name_url": "https://www.espncricinfo.com/cricketers/nitish-kumar-348129",
+     "role": "Top order Batter",
+     "age": "29y 348d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shayan-jahangir-647771",
+     "name": "Shayan Jahangir",
+     "name_url": "https://www.espncricinfo.com/cricketers/shayan-jahangir-647771",
+     "role": "Batter",
+     "age": "29y 131d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/steven-taylor-348133",
+     "name": "Steven Taylor",
+     "name_url": "https://www.espncricinfo.com/cricketers/steven-taylor-348133",
+     "role": "Opening Batter",
+     "age": "30y 176d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/corey-anderson-277662",
+     "name": "Corey Anderson",
+     "name_url": "https://www.espncricinfo.com/cricketers/corey-anderson-277662",
+     "role": "Batting Allrounder",
+     "age": "33y 142d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/harmeet-singh-422847",
+     "name": "Harmeet Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/harmeet-singh-422847",
+     "role": "Bowling Allrounder",
+     "age": "31y 239d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/milind-kumar-451947",
+     "name": "Milind Kumar",
+     "name_url": "https://www.espncricinfo.com/cricketers/milind-kumar-451947",
+     "role": "Allrounder",
+     "age": "33y 78d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nisarg-patel-233258",
+     "name": "Nisarg Patel",
+     "name_url": "https://www.espncricinfo.com/cricketers/nisarg-patel-233258",
+     "role": "Allrounder",
+     "age": "36y 13d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shadley-van-schalkwyk-334621",
+     "name": "Shadley van Schalkwyk",
+     "name_url": "https://www.espncricinfo.com/cricketers/shadley-van-schalkwyk-334621",
+     "role": "Allrounder",
+     "age": "35y 272d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/ali-khan-927119",
+     "name": "Ali Khan",
+     "name_url": "https://www.espncricinfo.com/cricketers/ali-khan-927119",
+     "role": "Bowler",
+     "age": "33y 142d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jasdeep-singh-772471",
+     "name": "Jasdeep Singh",
+     "name_url": "https://www.espncricinfo.com/cricketers/jasdeep-singh-772471",
+     "role": "Bowler",
+     "age": "31y 83d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nosthush-kenjige-1041679",
+     "name": "Nosthush Kenjige",
+     "name_url": "https://www.espncricinfo.com/cricketers/nosthush-kenjige-1041679",
+     "role": "Bowler",
+     "age": "33y 62d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/saurabh-netravalkar-398513",
+     "name": "Saurabh Netravalkar",
+     "name_url": "https://www.espncricinfo.com/cricketers/saurabh-netravalkar-398513",
+     "role": "Bowler",
+     "age": "32y 200d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    }
+   ]
+  },
+  {
+   "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+   "name": "West Indies Squad",
+   "name_url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-squad-1432115/series-squads",
+   "selection2": [
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/rovman-powell-820351",
+     "name": "Rovman Powell",
+     "name_url": "https://www.espncricinfo.com/cricketers/rovman-powell-820351",
+     "role": "Middle order Batter",
+     "age": "30y 285d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/johnson-charles-333066",
+     "name": "Johnson Charles",
+     "name_url": "https://www.espncricinfo.com/cricketers/johnson-charles-333066",
+     "role": "Wicketkeeper Batter",
+     "age": "35y 110d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shimron-hetmyer-670025",
+     "name": "Shimron Hetmyer",
+     "name_url": "https://www.espncricinfo.com/cricketers/shimron-hetmyer-670025",
+     "role": "Middle order Batter",
+     "age": "27y 129d",
+     "batting_style": "Left hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shai-hope-581379",
+     "name": "Shai Hope",
+     "name_url": "https://www.espncricinfo.com/cricketers/shai-hope-581379",
+     "role": "Wicketkeeper Batter",
+     "age": "30y 175d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/nicholas-pooran-604302",
+     "name": "Nicholas Pooran",
+     "name_url": "https://www.espncricinfo.com/cricketers/nicholas-pooran-604302",
+     "role": "Wicketkeeper Batter",
+     "age": "28y 214d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/sherfane-rutherford-914541",
+     "name": "Sherfane Rutherford",
+     "name_url": "https://www.espncricinfo.com/cricketers/sherfane-rutherford-914541",
+     "role": "Middle order Batter",
+     "age": "25y 262d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/brandon-king-670035",
+     "name": "Brandon King",
+     "name_url": "https://www.espncricinfo.com/cricketers/brandon-king-670035",
+     "role": "Top order Batter",
+     "age": "29y 139d",
+     "batting_style": "Right hand Bat"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/roston-chase-391832",
+     "name": "Roston Chase",
+     "name_url": "https://www.espncricinfo.com/cricketers/roston-chase-391832",
+     "role": "Allrounder",
+     "age": "32y 42d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Offbreak"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/kyle-mayers-348056",
+     "name": "Kyle Mayers",
+     "name_url": "https://www.espncricinfo.com/cricketers/kyle-mayers-348056",
+     "role": "Batting Allrounder",
+     "age": "31y 238d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/andre-russell-276298",
+     "name": "Andre Russell",
+     "name_url": "https://www.espncricinfo.com/cricketers/andre-russell-276298",
+     "role": "Allrounder",
+     "age": "36y 4d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/romario-shepherd-677077",
+     "name": "Romario Shepherd",
+     "name_url": "https://www.espncricinfo.com/cricketers/romario-shepherd-677077",
+     "role": "Bowling Allrounder",
+     "age": "29y 159d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/jason-holder-391485",
+     "name": "Jason Holder",
+     "name_url": "https://www.espncricinfo.com/cricketers/jason-holder-391485",
+     "role": "Bowling Allrounder",
+     "age": "32y 180d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Medium fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/alzarri-joseph-670031",
+     "name": "Alzarri Joseph",
+     "name_url": "https://www.espncricinfo.com/cricketers/alzarri-joseph-670031",
+     "role": "Bowler",
+     "age": "27y 165d",
+     "batting_style": "Right hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/akeal-hosein-530812",
+     "name": "Akeal Hosein",
+     "name_url": "https://www.espncricinfo.com/cricketers/akeal-hosein-530812",
+     "role": "Bowler",
+     "age": "31y 8d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/shamar-joseph-1356971",
+     "name": "Shamar Joseph",
+     "name_url": "https://www.espncricinfo.com/cricketers/shamar-joseph-1356971",
+     "role": "Bowler",
+     "age": "24y 246d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Right arm Fast"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/obed-mccoy-906783",
+     "name": "Obed McCoy",
+     "name_url": "https://www.espncricinfo.com/cricketers/obed-mccoy-906783",
+     "role": "Bowler",
+     "age": "27y 120d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Left arm Fast medium"
+    },
+    {
+     "image": "https://wassets.hscicdn.com/static/images/lazyimage-noaspect.svg",
+     "url": "https://www.espncricinfo.com/cricketers/gudakesh-motie-670045",
+     "name": "Gudakesh Motie",
+     "name_url": "https://www.espncricinfo.com/cricketers/gudakesh-motie-670045",
+     "role": "Bowler",
+     "age": "29y 35d",
+     "batting_style": "Left hand Bat",
+     "bowling_style": "Slow Left arm Orthodox"
+    }
+   ]
+  }
+ ]
+}

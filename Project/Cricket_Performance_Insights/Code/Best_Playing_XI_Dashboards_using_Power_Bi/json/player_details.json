@@ -1,0 +1,2466 @@
+[
+    {
+        "name":"Rahmanullah Gurbaz",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"22y 155d"
+    },
+    {
+        "name":"Hazratullah Zazai",
+        "team":"Afghanistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Opening Batter",
+        "age":"26y 39d"
+    },
+    {
+        "name":"Ibrahim Zadran",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Opening Batter",
+        "age":"22y 141d"
+    },
+    {
+        "name":"Mohammad Ishaq",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"19y 90d"
+    },
+    {
+        "name":"Najibullah Zadran",
+        "team":"Afghanistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"31y 73d"
+    },
+    {
+        "name":"Rashid Khan",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Bowling Allrounder",
+        "age":"25y 224d"
+    },
+    {
+        "name":"Azmatullah Omarzai",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"24y 38d"
+    },
+    {
+        "name":"Gulbadin Naib",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Batting Allrounder",
+        "age":"32y 332d"
+    },
+    {
+        "name":"Karim Janat",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"25y 264d"
+    },
+    {
+        "name":"Mohammad Nabi",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"39y 121d"
+    },
+    {
+        "name":"Nangeyalia Kharote",
+        "team":"Afghanistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"20y 6d"
+    },
+    {
+        "name":"Fareed Ahmad",
+        "team":"Afghanistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"29y 265d"
+    },
+    {
+        "name":"Fazalhaq Farooqi",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"23y 222d"
+    },
+    {
+        "name":"Naveen-ul-Haq",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"24y 221d"
+    },
+    {
+        "name":"Noor Ahmad",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Wrist spin",
+        "playingRole":"Bowler",
+        "age":"19y 119d"
+    },
+    {
+        "name":"Mujeeb Ur Rahman",
+        "team":"Afghanistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Bowler",
+        "age":"23y 34d"
+    },
+    {
+        "name":"Tim David",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"28y 46d"
+    },
+    {
+        "name":"Travis Head",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"30y 124d"
+    },
+    {
+        "name":"Josh Inglis",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"29y 58d"
+    },
+    {
+        "name":"Matthew Wade",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"36y 127d"
+    },
+    {
+        "name":"David Warner",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Opening Batter",
+        "age":"37y 187d"
+    },
+    {
+        "name":"Mitchell Marsh",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"32y 194d"
+    },
+    {
+        "name":"Cameron Green",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Batting Allrounder",
+        "age":"24y 333d"
+    },
+    {
+        "name":"Glenn Maxwell",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"35y 200d"
+    },
+    {
+        "name":"Marcus Stoinis",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batting Allrounder",
+        "age":"34y 259d"
+    },
+    {
+        "name":"Ashton Agar",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"30y 200d"
+    },
+    {
+        "name":"Pat Cummins",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"30y 359d"
+    },
+    {
+        "name":"Nathan Ellis",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"29y 222d"
+    },
+    {
+        "name":"Josh Hazlewood",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"33y 114d"
+    },
+    {
+        "name":"Mitchell Starc",
+        "team":"Australia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast",
+        "playingRole":"Bowler",
+        "age":"34y 92d"
+    },
+    {
+        "name":"Adam Zampa",
+        "team":"Australia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Bowler",
+        "age":"32y 31d"
+    },
+    {
+        "name":"Najmul Hossain Shanto",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"25y 263d"
+    },
+    {
+        "name":"Jaker Ali",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"26y 82d"
+    },
+    {
+        "name":"Litton Das",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"29y 214d"
+    },
+    {
+        "name":"Tanzid Hasan",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Opening Batter",
+        "age":"23y 165d"
+    },
+    {
+        "name":"Towhid Hridoy",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"23y 162d"
+    },
+    {
+        "name":"Mahedi Hasan",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"29y 154d"
+    },
+    {
+        "name":"Mahmudullah",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"38y 100d"
+    },
+    {
+        "name":"Rishad Hossain",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Allrounder",
+        "age":"21y 304d"
+    },
+    {
+        "name":"Shakib Al Hasan",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"37y 51d"
+    },
+    {
+        "name":"Soumya Sarkar",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Batting Allrounder",
+        "age":"31y 79d"
+    },
+    {
+        "name":"Tanzim Hasan Sakib",
+        "team":"Bangladesh",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"21y 207d"
+    },
+    {
+        "name":"Taskin Ahmed",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"29y 41d"
+    },
+    {
+        "name":"Mustafizur Rahman",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"28y 251d"
+    },
+    {
+        "name":"Shoriful Islam",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"22y 346d"
+    },
+    {
+        "name":"Tanvir Islam",
+        "team":"Bangladesh",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"27y 202d"
+    },
+    {
+        "name":"Navneet Dhaliwal",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Middle order Batter",
+        "age":"35y 205d"
+    },
+    {
+        "name":"Aaron Johnson",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"33y 47d"
+    },
+    {
+        "name":"Shreyas Movva",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"30y 241d"
+    },
+    {
+        "name":"Ravinderpal Singh",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"35y 201d"
+    },
+    {
+        "name":"Saad Bin Zafar",
+        "team":"Canada",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"37y 174d"
+    },
+    {
+        "name":"Dilpreet Bajwa",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"21y 97d"
+    },
+    {
+        "name":"Junaid Siddiqui",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Allrounder",
+        "age":"39y 38d"
+    },
+    {
+        "name":"Nicholas Kirton",
+        "team":"Canada",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Batting Allrounder",
+        "age":"25y 362d"
+    },
+    {
+        "name":"Pargat Singh",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"32y 19d"
+    },
+    {
+        "name":"Rayyan Pathan",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Batting Allrounder",
+        "age":"32y 148d"
+    },
+    {
+        "name":"Harsh Thaker",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"26y 191d"
+    },
+    {
+        "name":"Nikhil Dutta",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Bowler",
+        "age":"29y 202d"
+    },
+    {
+        "name":"Jeremy Gordon",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"37y 103d"
+    },
+    {
+        "name":"Dilon Heyliger",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"34y 194d"
+    },
+    {
+        "name":"Rishiv Joshi",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"23y 180d"
+    },
+    {
+        "name":"Kaleem Sana",
+        "team":"Canada",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"30y 122d"
+    },
+    {
+        "name":"Jos Buttler",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"33y 235d"
+    },
+    {
+        "name":"Jonny Bairstow",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"34y 217d"
+    },
+    {
+        "name":"Harry Brook",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batter",
+        "age":"25y 68d"
+    },
+    {
+        "name":"Ben Duckett",
+        "team":"England",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"29y 196d"
+    },
+    {
+        "name":"Phil Salt",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 246d"
+    },
+    {
+        "name":"Moeen Ali",
+        "team":"England",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"36y 317d"
+    },
+    {
+        "name":"Sam Curran",
+        "team":"England",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"25y 332d"
+    },
+    {
+        "name":"Will Jacks",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"25y 161d"
+    },
+    {
+        "name":"Liam Livingstone",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak, Legbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"30y 270d"
+    },
+    {
+        "name":"Jofra Archer",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"29y 29d"
+    },
+    {
+        "name":"Tom Hartley",
+        "team":"England",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"24y 363d"
+    },
+    {
+        "name":"Chris Jordan",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"35y 209d"
+    },
+    {
+        "name":"Adil Rashid",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Bowler",
+        "age":"36y 73d"
+    },
+    {
+        "name":"Reece Topley",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"30y 69d"
+    },
+    {
+        "name":"Mark Wood",
+        "team":"England",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"34y 110d"
+    },
+    {
+        "name":"Rohit Sharma",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"37y"
+    },
+    {
+        "name":"Yashasvi Jaiswal",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Opening Batter",
+        "age":"22y 124d"
+    },
+    {
+        "name":"Virat Kohli",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Top order Batter",
+        "age":"35y 177d"
+    },
+    {
+        "name":"Rishabh Pant",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"26y 209d"
+    },
+    {
+        "name":"Sanju Samson",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"29y 171d"
+    },
+    {
+        "name":"Suryakumar Yadav",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium, Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"33y 229d"
+    },
+    {
+        "name":"Hardik Pandya",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"30y 202d"
+    },
+    {
+        "name":"Shivam Dube",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"30y 309d"
+    },
+    {
+        "name":"Ravindra Jadeja",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"35y 146d"
+    },
+    {
+        "name":"Axar Patel",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"30y 101d"
+    },
+    {
+        "name":"Arshdeep Singh",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"25y 85d"
+    },
+    {
+        "name":"Jasprit Bumrah",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"30y 146d"
+    },
+    {
+        "name":"Yuzvendra Chahal",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Bowler",
+        "age":"33y 282d"
+    },
+    {
+        "name":"Kuldeep Yadav",
+        "team":"India",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Wrist spin",
+        "playingRole":"Bowler",
+        "age":"29y 138d"
+    },
+    {
+        "name":"Mohammed Siraj",
+        "team":"India",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"30y 48d"
+    },
+    {
+        "name":"Ross Adair",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Top order Batter",
+        "age":"30y 16d"
+    },
+    {
+        "name":"Andy Balbirnie",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"33y 131d"
+    },
+    {
+        "name":"Neil Rock",
+        "team":"Ireland",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"23y 226d"
+    },
+    {
+        "name":"Harry Tector",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"24y 153d"
+    },
+    {
+        "name":"Lorcan Tucker",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 240d"
+    },
+    {
+        "name":"Paul Stirling",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"33y 247d"
+    },
+    {
+        "name":"Mark Adair",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"28y 41d"
+    },
+    {
+        "name":"Curtis Campher",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"25y 17d"
+    },
+    {
+        "name":"Gareth Delany",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Batting Allrounder",
+        "age":"27y 9d"
+    },
+    {
+        "name":"George Dockrell",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"31y 290d"
+    },
+    {
+        "name":"Graham Hume",
+        "team":"Ireland",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"33y 166d"
+    },
+    {
+        "name":"Josh Little",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"24y 188d"
+    },
+    {
+        "name":"Barry McCarthy",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"31y 237d"
+    },
+    {
+        "name":"Ben White",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Bowler",
+        "age":"25y 252d"
+    },
+    {
+        "name":"Craig Young",
+        "team":"Ireland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"34y 33d"
+    },
+    {
+        "name":"Nikolaas Davin",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Batter",
+        "age":"26y 143d"
+    },
+    {
+        "name":"Zane Green",
+        "team":"Namibia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 212d"
+    },
+    {
+        "name":"JP Kotze",
+        "team":"Namibia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Batter",
+        "age":"30y 17d"
+    },
+    {
+        "name":"Malan Kruger",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Batter",
+        "age":"29y 28d"
+    },
+    {
+        "name":"Dylan Leicher",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Middle order Batter",
+        "age":"20y 7d"
+    },
+    {
+        "name":"Gerhard Erasmus",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"29y 29d"
+    },
+    {
+        "name":"JJ Smit",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Bowling Allrounder",
+        "age":"28y 182d"
+    },
+    {
+        "name":"Jan Frylinck",
+        "team":"Namibia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Allrounder",
+        "age":"30y 34d"
+    },
+    {
+        "name":"Michael van Lingen",
+        "team":"Namibia",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium, Slow Left arm Orthodox",
+        "playingRole":"Bowling Allrounder",
+        "age":"26y 199d"
+    },
+    {
+        "name":"David Wiese",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"38y 358d"
+    },
+    {
+        "name":"Peter-Daniel Blignaut",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"18y 202d"
+    },
+    {
+        "name":"Jack Brassell",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"19y 40d"
+    },
+    {
+        "name":"Tangeni Lungameni",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium",
+        "playingRole":"Bowler",
+        "age":"32y 23d"
+    },
+    {
+        "name":"Bernard Scholtz",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"33y 220d"
+    },
+    {
+        "name":"Ben Shikongo",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"24y 2d"
+    },
+    {
+        "name":"Ruben Trumpelmann",
+        "team":"Namibia",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast",
+        "playingRole":"Bowler",
+        "age":"26y 99d"
+    },
+    {
+        "name":"Aasif Sheikh",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"22y 314d"
+    },
+    {
+        "name":"Dipendra Singh Airee",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium, Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"24y 98d"
+    },
+    {
+        "name":"Kushal Bhurtel",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Opening Batter",
+        "age":"27y 100d"
+    },
+    {
+        "name":"Sundeep Jora",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Middle order Batter",
+        "age":"22y 194d"
+    },
+    {
+        "name":"Anil Sah",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper",
+        "age":"25y 166d"
+    },
+    {
+        "name":"Rohit Paudel",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"21y 242d"
+    },
+    {
+        "name":"Gulsan Jha",
+        "team":"Nepal",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"18y 74d"
+    },
+    {
+        "name":"Karan KC",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Allrounder",
+        "age":"32y 204d"
+    },
+    {
+        "name":"Kushal Malla",
+        "team":"Nepal",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Batting Allrounder",
+        "age":"20y 57d"
+    },
+    {
+        "name":"Sompal Kami",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"28y 89d"
+    },
+    {
+        "name":"Pratis GC",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"19y 345d"
+    },
+    {
+        "name":"Kamal Airee",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"23y 134d"
+    },
+    {
+        "name":"Abinash Bohara",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"26y 276d"
+    },
+    {
+        "name":"Sagar Dhakal",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"22y 139d"
+    },
+    {
+        "name":"Sandeep Lamichhane",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Bowler",
+        "age":"23y 273d"
+    },
+    {
+        "name":"Lalit Rajbanshi",
+        "team":"Nepal",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"25y 64d"
+    },
+    {
+        "name":"Scott Edwards",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 264d"
+    },
+    {
+        "name":"Wesley Barresi",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"40y 10d"
+    },
+    {
+        "name":"Michael Levitt",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Top order Batter",
+        "age":"20y 329d"
+    },
+    {
+        "name":"Max O'Dowd",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Opening Batter",
+        "age":"30y 70d"
+    },
+    {
+        "name":"Vikramjit Singh",
+        "team":"Netherlands",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Opening Batter",
+        "age":"21y 125d"
+    },
+    {
+        "name":"Bas de Leede",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Batting Allrounder",
+        "age":"24y 180d"
+    },
+    {
+        "name":"Sybrand Engelbrecht",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"35y 241d"
+    },
+    {
+        "name":"Teja Nidamanuru",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"29y 265d"
+    },
+    {
+        "name":"Tim Pringle",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"21y 258d"
+    },
+    {
+        "name":"Saqib Zulfiqar",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Bowling Allrounder",
+        "age":"27y 46d"
+    },
+    {
+        "name":"Aryan Dutt",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Bowler",
+        "age":"21y 1d"
+    },
+    {
+        "name":"Vivian Kingma",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"29y 203d"
+    },
+    {
+        "name":"Kyle Klein",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"22y 315d"
+    },
+    {
+        "name":"Logan van Beek",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"33y 249d"
+    },
+    {
+        "name":"Paul van Meekeren",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"31y 119d"
+    },
+    {
+        "name":"Daniel Doram",
+        "team":"Netherlands",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"26y 213d"
+    },
+    {
+        "name":"Fred Klaassen",
+        "team":"Netherlands",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"31y 182d"
+    },
+    {
+        "name":"Kane Williamson",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"33y 265d"
+    },
+    {
+        "name":"Finn Allen",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Top order Batter",
+        "age":"25y 7d"
+    },
+    {
+        "name":"Devon Conway",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"32y 296d"
+    },
+    {
+        "name":"Michael Bracewell",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"33y 75d"
+    },
+    {
+        "name":"Mark Chapman",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"29y 307d"
+    },
+    {
+        "name":"Daryl Mitchell",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batting Allrounder",
+        "age":"32y 345d"
+    },
+    {
+        "name":"James Neesham",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Batting Allrounder",
+        "age":"33y 225d"
+    },
+    {
+        "name":"Glenn Phillips",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"27y 145d"
+    },
+    {
+        "name":"Rachin Ravindra",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Batting Allrounder",
+        "age":"24y 163d"
+    },
+    {
+        "name":"Mitchell Santner",
+        "team":" New Zealand",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowling Allrounder",
+        "age":"32y 84d"
+    },
+    {
+        "name":"Trent Boult",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"34y 282d"
+    },
+    {
+        "name":"Lockie Ferguson",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"32y 321d"
+    },
+    {
+        "name":"Matt Henry",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"32y 137d"
+    },
+    {
+        "name":"Ish Sodhi",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Bowler",
+        "age":"31y 181d"
+    },
+    {
+        "name":"Tim Southee",
+        "team":" New Zealand",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"35y 140d"
+    },
+    {
+        "name":"Aqib Ilyas",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak, Legbreak Googly",
+        "playingRole":"Top order Batter",
+        "age":"31y 239d"
+    },
+    {
+        "name":"Pratik Athavale",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 11d"
+    },
+    {
+        "name":"Khalid Kail",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Middle order Batter",
+        "age":"27y 201d"
+    },
+    {
+        "name":"Mehran Khan",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Batter",
+        "age":"37y 18d"
+    },
+    {
+        "name":"Naseem Khushi",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper",
+        "age":"41y 264d"
+    },
+    {
+        "name":"Kashyap Prajapati",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"28y 203d"
+    },
+    {
+        "name":"Shoaib Khan",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batter",
+        "age":"31y 147d"
+    },
+    {
+        "name":"Zeeshan Maqsood",
+        "team":"Oman",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Opening Batter",
+        "age":"36y 190d"
+    },
+    {
+        "name":"Ayaan Khan",
+        "team":"Oman",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"31y 245d"
+    },
+    {
+        "name":"Mohammad Nadeem",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Allrounder",
+        "age":"41y 240d"
+    },
+    {
+        "name":"Bilal Khan",
+        "team":"Oman",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"37y 21d"
+    },
+    {
+        "name":"Fayyaz Butt",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"30y 258d"
+    },
+    {
+        "name":"Kaleemullah",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"33y 129d"
+    },
+    {
+        "name":"Rafiullah",
+        "team":"Oman",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"27y 259d"
+    },
+    {
+        "name":"Shakeel Ahmed",
+        "team":"Oman",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"36y 87d"
+    },
+    {
+        "name":"Babar Azam",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"29y 222d"
+    },
+    {
+        "name":"Azam Khan",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"25y 288d"
+    },
+    {
+        "name":"Fakhar Zaman",
+        "team":"Pakistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Opening Batter",
+        "age":"34y 44d"
+    },
+    {
+        "name":"Iftikhar Ahmed",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"33y 264d"
+    },
+    {
+        "name":"Mohammad Rizwan",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"31y 358d"
+    },
+    {
+        "name":"Saim Ayub",
+        "team":"Pakistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"22y"
+    },
+    {
+        "name":"Usman Khan",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"29y 14d"
+    },
+    {
+        "name":"Imad Wasim",
+        "team":"Pakistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"35y 158d"
+    },
+    {
+        "name":"Shadab Khan",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Allrounder",
+        "age":"25y 233d"
+    },
+    {
+        "name":"Abbas Afridi",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"23y 49d"
+    },
+    {
+        "name":"Abrar Ahmed",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Bowler",
+        "age":"25y 256d"
+    },
+    {
+        "name":"Haris Rauf",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"30y 199d"
+    },
+    {
+        "name":"Mohammad Amir",
+        "team":"Pakistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"32y 41d"
+    },
+    {
+        "name":"Naseem Shah",
+        "team":"Pakistan",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"21y 99d"
+    },
+    {
+        "name":"Shaheen Shah Afridi",
+        "team":"Pakistan",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast",
+        "playingRole":"Bowler",
+        "age":"24y 48d"
+    },
+    {
+        "name":"Assad Vala",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"36y 277d"
+    },
+    {
+        "name":"Sese Bau",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"31y 320d"
+    },
+    {
+        "name":"Kiplin Doriga",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"28y 203d"
+    },
+    {
+        "name":"Hiri Hiri",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"29y 7d"
+    },
+    {
+        "name":"Lega Siaka",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium, Legbreak",
+        "playingRole":"Opening Batter",
+        "age":"31y 139d"
+    },
+    {
+        "name":"Tony Ura",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Opening Batter",
+        "age":"34y 206d"
+    },
+    {
+        "name":"Hila Vare",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Batter",
+        "age":"22y 272d"
+    },
+    {
+        "name":"Charles Amini",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Allrounder",
+        "age":"32y 24d"
+    },
+    {
+        "name":"Jack Gardner",
+        "team":"Papua",
+        "battingStyle":null,
+        "bowlingStyle":null,
+        "playingRole":"Bowler",
+        "age":"23y 137d"
+    },
+    {
+        "name":"Semo Kamea",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast",
+        "playingRole":"Bowler",
+        "age":"22y 261d"
+    },
+    {
+        "name":"John Kariko",
+        "team":"Papua",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"20y 113d"
+    },
+    {
+        "name":"Kabua Morea",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium",
+        "playingRole":"Bowler",
+        "age":"30y 221d"
+    },
+    {
+        "name":"Alei Nao",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"30y 151d"
+    },
+    {
+        "name":"Chad Soper",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"32y 171d"
+    },
+    {
+        "name":"Norman Vanua",
+        "team":"Papua",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"30y 158d"
+    },
+    {
+        "name":"Richie Berrington",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Top order Batter",
+        "age":"37y 33d"
+    },
+    {
+        "name":"Matthew Cross",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"31y 204d"
+    },
+    {
+        "name":"Ollie Hairs",
+        "team":"Scotland",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Opening Batter",
+        "age":"33y 22d"
+    },
+    {
+        "name":"Michael Jones",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"26y 122d"
+    },
+    {
+        "name":"George Munsey",
+        "team":"Scotland",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Opening Batter",
+        "age":"31y 75d"
+    },
+    {
+        "name":"Charlie Tear",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"19y 329d"
+    },
+    {
+        "name":"Michael Leask",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"33y 190d"
+    },
+    {
+        "name":"Brandon McMullen",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batting Allrounder",
+        "age":"24y 201d"
+    },
+    {
+        "name":"Brad Currie",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Medium",
+        "playingRole":"Bowler",
+        "age":"25y 180d"
+    },
+    {
+        "name":"Chris Greaves",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Bowler",
+        "age":"33y 207d"
+    },
+    {
+        "name":"Jack Jarvis",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"20y 343d"
+    },
+    {
+        "name":"Safyaan Sharif",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"32y 348d"
+    },
+    {
+        "name":"Chris Sole",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"30y 69d"
+    },
+    {
+        "name":"Mark Watt",
+        "team":"Scotland",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"27y 282d"
+    },
+    {
+        "name":"Brad Wheal",
+        "team":"Scotland",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"27y 252d"
+    },
+    {
+        "name":"Quinton de Kock",
+        "team":"South Africa",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"31y 135d"
+    },
+    {
+        "name":"Reeza Hendricks",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Opening Batter",
+        "age":"34y 260d"
+    },
+    {
+        "name":"Heinrich Klaasen",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"32y 275d"
+    },
+    {
+        "name":"David Miller",
+        "team":"South Africa",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Middle order Batter",
+        "age":"34y 325d"
+    },
+    {
+        "name":"Ryan Rickelton",
+        "team":"South Africa",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 294d"
+    },
+    {
+        "name":"Tristan Stubbs",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"23y 260d"
+    },
+    {
+        "name":"Aiden Markram",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"29y 209d"
+    },
+    {
+        "name":"Marco Jansen",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast",
+        "playingRole":"Bowling Allrounder",
+        "age":"23y 365d"
+    },
+    {
+        "name":"Ottneil Baartman",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"31y 43d"
+    },
+    {
+        "name":"Gerald Coetzee",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"23y 211d"
+    },
+    {
+        "name":"Bjorn Fortuin",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"29y 192d"
+    },
+    {
+        "name":"Keshav Maharaj",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"34y 83d"
+    },
+    {
+        "name":"Anrich Nortje",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"30y 166d"
+    },
+    {
+        "name":"Kagiso Rabada",
+        "team":"South Africa",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"28y 341d"
+    },
+    {
+        "name":"Tabraiz Shamsi",
+        "team":"South Africa",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Wrist spin",
+        "playingRole":"Bowler",
+        "age":"34y 72d"
+    },
+    {
+        "name":"Kusal Mendis",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"29y 97d"
+    },
+    {
+        "name":"Pathum Nissanka",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Top order Batter",
+        "age":"25y 357d"
+    },
+    {
+        "name":"Sadeera Samarawickrama",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"28y 253d"
+    },
+    {
+        "name":"Wanindu Hasaranga",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak",
+        "playingRole":"Allrounder",
+        "age":"26y 285d"
+    },
+    {
+        "name":"Charith Asalanka",
+        "team":" Sri Lanka",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batting Allrounder",
+        "age":"26y 315d"
+    },
+    {
+        "name":"Dhananjaya de Silva",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"32y 246d"
+    },
+    {
+        "name":"Angelo Mathews",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"36y 342d"
+    },
+    {
+        "name":"Kamindu Mendis",
+        "team":" Sri Lanka",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak, Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"25y 222d"
+    },
+    {
+        "name":"Dasun Shanaka",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"32y 243d"
+    },
+    {
+        "name":"Dushmantha Chameera",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"32y 119d"
+    },
+    {
+        "name":"Dilshan Madushanka",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"23y 234d"
+    },
+    {
+        "name":"Matheesha Pathirana",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"21y 143d"
+    },
+    {
+        "name":"Maheesh Theekshana",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Bowler",
+        "age":"23y 282d"
+    },
+    {
+        "name":"Nuwan Thushara",
+        "team":" Sri Lanka",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"29y 277d"
+    },
+    {
+        "name":"Dunith Wellalage",
+        "team":" Sri Lanka",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"21y 121d"
+    },
+    {
+        "name":"Fred Achelam",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"23y 100d"
+    },
+    {
+        "name":"Roger Mukasa",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Batter",
+        "age":"34y 350d"
+    },
+    {
+        "name":"Robinson Obuya",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Batter",
+        "age":"23y 146d"
+    },
+    {
+        "name":"Ronak Patel",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Batter",
+        "age":"35y 262d"
+    },
+    {
+        "name":"Simon Ssesazi",
+        "team":"Uganda",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Slow",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"27y 260d"
+    },
+    {
+        "name":"Riazat Ali Shah",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batting Allrounder",
+        "age":"26y 76d"
+    },
+    {
+        "name":"Dinesh Nakrani",
+        "team":"Uganda",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium",
+        "playingRole":"Allrounder",
+        "age":"32y 228d"
+    },
+    {
+        "name":"Frank Nsubuga",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"43y 252d"
+    },
+    {
+        "name":"Alpesh Ramjani",
+        "team":"Uganda",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"29y 225d"
+    },
+    {
+        "name":"Kenneth Waiswa",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"25y 177d"
+    },
+    {
+        "name":"Brian Masaba",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium, Right arm Offbreak, Legbreak Googly",
+        "playingRole":"Bowler",
+        "age":"32y 227d"
+    },
+    {
+        "name":"Bilal Hassan",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"34y 21d"
+    },
+    {
+        "name":"Cosmas Kyewuta",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"22y 130d"
+    },
+    {
+        "name":"Juma Miyagi",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowler",
+        "age":"21y 31d"
+    },
+    {
+        "name":"Henry Ssenyondo",
+        "team":"Uganda",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"30y 268d"
+    },
+    {
+        "name":"Monank Patel",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"31y 2d"
+    },
+    {
+        "name":"Aaron Jones",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Legbreak Googly",
+        "playingRole":"Top order Batter",
+        "age":"29y 197d"
+    },
+    {
+        "name":"Andries Gous",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"30y 161d"
+    },
+    {
+        "name":"Nitish Kumar",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Top order Batter",
+        "age":"29y 348d"
+    },
+    {
+        "name":"Shayan Jahangir",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Batter",
+        "age":"29y 131d"
+    },
+    {
+        "name":"Steven Taylor",
+        "team":"United",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Opening Batter",
+        "age":"30y 176d"
+    },
+    {
+        "name":"Corey Anderson",
+        "team":"United",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Medium fast",
+        "playingRole":"Batting Allrounder",
+        "age":"33y 142d"
+    },
+    {
+        "name":"Harmeet Singh",
+        "team":"United",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowling Allrounder",
+        "age":"31y 239d"
+    },
+    {
+        "name":"Milind Kumar",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"33y 78d"
+    },
+    {
+        "name":"Nisarg Patel",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Allrounder",
+        "age":"36y 13d"
+    },
+    {
+        "name":"Shadley van Schalkwyk",
+        "team":"United",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Allrounder",
+        "age":"35y 272d"
+    },
+    {
+        "name":"Ali Khan",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"33y 142d"
+    },
+    {
+        "name":"Jasdeep Singh",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Bowler",
+        "age":"31y 83d"
+    },
+    {
+        "name":"Nosthush Kenjige",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"33y 62d"
+    },
+    {
+        "name":"Saurabh Netravalkar",
+        "team":"United",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"32y 200d"
+    },
+    {
+        "name":"Rovman Powell",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Middle order Batter",
+        "age":"30y 285d"
+    },
+    {
+        "name":"Johnson Charles",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"35y 110d"
+    },
+    {
+        "name":"Shimron Hetmyer",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Middle order Batter",
+        "age":"27y 129d"
+    },
+    {
+        "name":"Shai Hope",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Wicketkeeper Batter",
+        "age":"30y 175d"
+    },
+    {
+        "name":"Nicholas Pooran",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Wicketkeeper Batter",
+        "age":"28y 214d"
+    },
+    {
+        "name":"Sherfane Rutherford",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Middle order Batter",
+        "age":"25y 262d"
+    },
+    {
+        "name":"Brandon King",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":null,
+        "playingRole":"Top order Batter",
+        "age":"29y 139d"
+    },
+    {
+        "name":"Roston Chase",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Offbreak",
+        "playingRole":"Allrounder",
+        "age":"32y 42d"
+    },
+    {
+        "name":"Kyle Mayers",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Medium",
+        "playingRole":"Batting Allrounder",
+        "age":"31y 238d"
+    },
+    {
+        "name":"Andre Russell",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Allrounder",
+        "age":"36y 4d"
+    },
+    {
+        "name":"Romario Shepherd",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast medium",
+        "playingRole":"Bowling Allrounder",
+        "age":"29y 159d"
+    },
+    {
+        "name":"Jason Holder",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Medium fast",
+        "playingRole":"Bowling Allrounder",
+        "age":"32y 180d"
+    },
+    {
+        "name":"Alzarri Joseph",
+        "team":"West Indies",
+        "battingStyle":"Right hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"27y 165d"
+    },
+    {
+        "name":"Akeal Hosein",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"31y 8d"
+    },
+    {
+        "name":"Shamar Joseph",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Right arm Fast",
+        "playingRole":"Bowler",
+        "age":"24y 246d"
+    },
+    {
+        "name":"Obed McCoy",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Left arm Fast medium",
+        "playingRole":"Bowler",
+        "age":"27y 120d"
+    },
+    {
+        "name":"Gudakesh Motie",
+        "team":"West Indies",
+        "battingStyle":"Left hand Bat",
+        "bowlingStyle":"Slow Left arm Orthodox",
+        "playingRole":"Bowler",
+        "age":"29y 35d"
+    }
+]
